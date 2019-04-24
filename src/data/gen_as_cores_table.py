@@ -16,7 +16,7 @@ import logging
 from config import Config
 
 #Load configuration parameters
-with open('caida.cfg', 'rt') as f:
+with open('gen_as_cores_table.cfg', 'rt') as f:
     cfg = Config(f)
 
 # Initialize logging feature    

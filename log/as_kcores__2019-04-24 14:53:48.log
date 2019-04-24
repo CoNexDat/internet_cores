@@ -1,0 +1,1357 @@
+2019-04-24 14:53:48,061 Debug: Initializing...
+2019-04-24 14:53:48,061 Info: Initializing...
+2019-04-24 14:53:48,061 Warning: Initializing...
+2019-04-24 14:53:48,061 Error: Initializing...
+2019-04-24 14:53:48,061 Critical: Initializing...
+2019-04-24 14:53:48,062 get_year_kcores: Function called with parameters year=1998, from_month=1, to_month=12, normalize=True
+2019-04-24 14:53:48,062 add_month_to_df: Function called with parameters year=1998, month=1, normalize=True
+2019-04-24 14:53:48,062 get_kcores: Function called with parameters year=1998, month=1
+2019-04-24 14:53:48,062 get_merged_graph: Function called with parameters year=1998, month=1
+2019-04-24 14:53:48,098 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998100.net successfully added
+2019-04-24 14:53:48,202 add_month_to_df: Function called with parameters year=1998, month=2, normalize=True
+2019-04-24 14:53:48,202 get_kcores: Function called with parameters year=1998, month=2
+2019-04-24 14:53:48,202 get_merged_graph: Function called with parameters year=1998, month=2
+2019-04-24 14:53:48,222 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998200.net successfully added
+2019-04-24 14:53:48,392 add_month_to_df: Function called with parameters year=1998, month=3, normalize=True
+2019-04-24 14:53:48,392 get_kcores: Function called with parameters year=1998, month=3
+2019-04-24 14:53:48,392 get_merged_graph: Function called with parameters year=1998, month=3
+2019-04-24 14:53:48,413 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998300.net successfully added
+2019-04-24 14:53:48,589 add_month_to_df: Function called with parameters year=1998, month=4, normalize=True
+2019-04-24 14:53:48,589 get_kcores: Function called with parameters year=1998, month=4
+2019-04-24 14:53:48,589 get_merged_graph: Function called with parameters year=1998, month=4
+2019-04-24 14:53:48,610 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998400.net successfully added
+2019-04-24 14:53:48,829 add_month_to_df: Function called with parameters year=1998, month=5, normalize=True
+2019-04-24 14:53:48,829 get_kcores: Function called with parameters year=1998, month=5
+2019-04-24 14:53:48,829 get_merged_graph: Function called with parameters year=1998, month=5
+2019-04-24 14:53:48,851 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998500.net successfully added
+2019-04-24 14:53:49,068 add_month_to_df: Function called with parameters year=1998, month=6, normalize=True
+2019-04-24 14:53:49,068 get_kcores: Function called with parameters year=1998, month=6
+2019-04-24 14:53:49,068 get_merged_graph: Function called with parameters year=1998, month=6
+2019-04-24 14:53:49,090 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998600.net successfully added
+2019-04-24 14:53:49,347 add_month_to_df: Function called with parameters year=1998, month=7, normalize=True
+2019-04-24 14:53:49,347 get_kcores: Function called with parameters year=1998, month=7
+2019-04-24 14:53:49,347 get_merged_graph: Function called with parameters year=1998, month=7
+2019-04-24 14:53:49,370 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998700.net successfully added
+2019-04-24 14:53:49,607 add_month_to_df: Function called with parameters year=1998, month=8, normalize=True
+2019-04-24 14:53:49,607 get_kcores: Function called with parameters year=1998, month=8
+2019-04-24 14:53:49,607 get_merged_graph: Function called with parameters year=1998, month=8
+2019-04-24 14:53:49,631 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998800.net successfully added
+2019-04-24 14:53:49,882 add_month_to_df: Function called with parameters year=1998, month=9, normalize=True
+2019-04-24 14:53:49,882 get_kcores: Function called with parameters year=1998, month=9
+2019-04-24 14:53:49,882 get_merged_graph: Function called with parameters year=1998, month=9
+2019-04-24 14:53:49,882 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:53:49,882 generate_BGP_graph: Function called with parameters year=1998, month=9
+2019-04-24 14:53:49,882 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:53:51,283 ['http://data.caida.org/datasets/as-relationships/serial-1/19980901.as-rel.txt.bz2']
+2019-04-24 14:53:51,283 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/19980901.as-rel.txt.bz2
+2019-04-24 14:53:51,970 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:53:52,378 []
+2019-04-24 14:53:52,378 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:53:52,416 generate_BGP_graph: Subgraph component found. Size: 4063
+2019-04-24 14:53:52,417 generate_BGP_graph: Removing self loops.
+2019-04-24 14:53:52,450 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998900.net successfully added
+2019-04-24 14:53:52,751 add_month_to_df: Function called with parameters year=1998, month=10, normalize=True
+2019-04-24 14:53:52,751 get_kcores: Function called with parameters year=1998, month=10
+2019-04-24 14:53:52,751 get_merged_graph: Function called with parameters year=1998, month=10
+2019-04-24 14:53:52,777 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/19981000.net successfully added
+2019-04-24 14:53:53,064 add_month_to_df: Function called with parameters year=1998, month=11, normalize=True
+2019-04-24 14:53:53,064 get_kcores: Function called with parameters year=1998, month=11
+2019-04-24 14:53:53,064 get_merged_graph: Function called with parameters year=1998, month=11
+2019-04-24 14:53:53,064 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:53:53,064 generate_BGP_graph: Function called with parameters year=1998, month=11
+2019-04-24 14:53:53,064 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:53:54,343 ['http://data.caida.org/datasets/as-relationships/serial-1/19981101.as-rel.txt.bz2']
+2019-04-24 14:53:54,343 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/19981101.as-rel.txt.bz2
+2019-04-24 14:53:54,999 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:53:55,441 []
+2019-04-24 14:53:55,441 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:53:55,509 generate_BGP_graph: Subgraph component found. Size: 4281
+2019-04-24 14:53:55,510 generate_BGP_graph: Removing self loops.
+2019-04-24 14:53:55,545 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/19981100.net successfully added
+2019-04-24 14:53:55,844 add_month_to_df: Function called with parameters year=1998, month=12, normalize=True
+2019-04-24 14:53:55,844 get_kcores: Function called with parameters year=1998, month=12
+2019-04-24 14:53:55,844 get_merged_graph: Function called with parameters year=1998, month=12
+2019-04-24 14:53:55,872 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/19981200.net successfully added
+2019-04-24 14:53:56,203 get_year_kcores: Function called with parameters year=1999, from_month=1, to_month=12, normalize=True
+2019-04-24 14:53:56,203 add_month_to_df: Function called with parameters year=1999, month=1, normalize=True
+2019-04-24 14:53:56,204 get_kcores: Function called with parameters year=1999, month=1
+2019-04-24 14:53:56,204 get_merged_graph: Function called with parameters year=1999, month=1
+2019-04-24 14:53:56,204 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:53:56,204 generate_BGP_graph: Function called with parameters year=1999, month=1
+2019-04-24 14:53:56,204 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:53:57,511 []
+2019-04-24 14:53:57,511 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:53:57,922 []
+2019-04-24 14:53:57,922 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:53:57,922 get_merged_graph: No info available for bgp. Giving up.
+2019-04-24 14:53:57,922 add_month_to_df: Function called with parameters year=1999, month=2, normalize=True
+2019-04-24 14:53:57,922 get_kcores: Function called with parameters year=1999, month=2
+2019-04-24 14:53:57,922 get_merged_graph: Function called with parameters year=1999, month=2
+2019-04-24 14:53:57,922 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:53:57,922 generate_BGP_graph: Function called with parameters year=1999, month=2
+2019-04-24 14:53:57,922 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:53:59,275 ['http://data.caida.org/datasets/as-relationships/serial-1/19990201.as-rel.txt.bz2']
+2019-04-24 14:53:59,275 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/19990201.as-rel.txt.bz2
+2019-04-24 14:53:59,928 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:54:00,356 []
+2019-04-24 14:54:00,356 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:54:00,399 generate_BGP_graph: Subgraph component found. Size: 4613
+2019-04-24 14:54:00,401 generate_BGP_graph: Removing self loops.
+2019-04-24 14:54:00,463 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1999200.net successfully added
+2019-04-24 14:54:00,820 add_month_to_df: Function called with parameters year=1999, month=3, normalize=True
+2019-04-24 14:54:00,821 get_kcores: Function called with parameters year=1999, month=3
+2019-04-24 14:54:00,821 get_merged_graph: Function called with parameters year=1999, month=3
+2019-04-24 14:54:00,850 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1999300.net successfully added
+2019-04-24 14:54:01,238 add_month_to_df: Function called with parameters year=1999, month=4, normalize=True
+2019-04-24 14:54:01,238 get_kcores: Function called with parameters year=1999, month=4
+2019-04-24 14:54:01,239 get_merged_graph: Function called with parameters year=1999, month=4
+2019-04-24 14:54:01,239 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:54:01,239 generate_BGP_graph: Function called with parameters year=1999, month=4
+2019-04-24 14:54:01,239 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:54:02,583 ['http://data.caida.org/datasets/as-relationships/serial-1/19990401.as-rel.txt.bz2']
+2019-04-24 14:54:02,583 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/19990401.as-rel.txt.bz2
+2019-04-24 14:54:03,475 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:54:03,903 []
+2019-04-24 14:54:03,903 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:54:03,950 generate_BGP_graph: Subgraph component found. Size: 4895
+2019-04-24 14:54:03,951 generate_BGP_graph: Removing self loops.
+2019-04-24 14:54:04,017 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1999400.net successfully added
+2019-04-24 14:54:04,385 add_month_to_df: Function called with parameters year=1999, month=5, normalize=True
+2019-04-24 14:54:04,385 get_kcores: Function called with parameters year=1999, month=5
+2019-04-24 14:54:04,385 get_merged_graph: Function called with parameters year=1999, month=5
+2019-04-24 14:54:04,436 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1999500.net successfully added
+2019-04-24 14:54:04,832 add_month_to_df: Function called with parameters year=1999, month=6, normalize=True
+2019-04-24 14:54:04,832 get_kcores: Function called with parameters year=1999, month=6
+2019-04-24 14:54:04,832 get_merged_graph: Function called with parameters year=1999, month=6
+2019-04-24 14:54:04,832 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:54:04,832 generate_BGP_graph: Function called with parameters year=1999, month=6
+2019-04-24 14:54:04,832 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:54:06,159 ['http://data.caida.org/datasets/as-relationships/serial-1/19990601.as-rel.txt.bz2']
+2019-04-24 14:54:06,159 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/19990601.as-rel.txt.bz2
+2019-04-24 14:54:06,985 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:54:07,407 []
+2019-04-24 14:54:07,407 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:54:07,486 generate_BGP_graph: Subgraph component found. Size: 5206
+2019-04-24 14:54:07,487 generate_BGP_graph: Removing self loops.
+2019-04-24 14:54:07,532 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1999600.net successfully added
+2019-04-24 14:54:07,930 add_month_to_df: Function called with parameters year=1999, month=7, normalize=True
+2019-04-24 14:54:07,930 get_kcores: Function called with parameters year=1999, month=7
+2019-04-24 14:54:07,930 get_merged_graph: Function called with parameters year=1999, month=7
+2019-04-24 14:54:07,983 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1999700.net successfully added
+2019-04-24 14:54:08,409 add_month_to_df: Function called with parameters year=1999, month=8, normalize=True
+2019-04-24 14:54:08,409 get_kcores: Function called with parameters year=1999, month=8
+2019-04-24 14:54:08,409 get_merged_graph: Function called with parameters year=1999, month=8
+2019-04-24 14:54:08,463 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1999800.net successfully added
+2019-04-24 14:54:08,893 add_month_to_df: Function called with parameters year=1999, month=9, normalize=True
+2019-04-24 14:54:08,893 get_kcores: Function called with parameters year=1999, month=9
+2019-04-24 14:54:08,893 get_merged_graph: Function called with parameters year=1999, month=9
+2019-04-24 14:54:08,893 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:54:08,893 generate_BGP_graph: Function called with parameters year=1999, month=9
+2019-04-24 14:54:08,893 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:54:10,161 ['http://data.caida.org/datasets/as-relationships/serial-1/19990901.as-rel.txt.bz2']
+2019-04-24 14:54:10,161 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/19990901.as-rel.txt.bz2
+2019-04-24 14:54:11,037 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:54:11,428 []
+2019-04-24 14:54:11,428 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:54:11,516 generate_BGP_graph: Subgraph component found. Size: 5676
+2019-04-24 14:54:11,517 generate_BGP_graph: Removing self loops.
+2019-04-24 14:54:11,567 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1999900.net successfully added
+2019-04-24 14:54:12,019 add_month_to_df: Function called with parameters year=1999, month=10, normalize=True
+2019-04-24 14:54:12,020 get_kcores: Function called with parameters year=1999, month=10
+2019-04-24 14:54:12,020 get_merged_graph: Function called with parameters year=1999, month=10
+2019-04-24 14:54:12,078 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/19991000.net successfully added
+2019-04-24 14:54:12,554 add_month_to_df: Function called with parameters year=1999, month=11, normalize=True
+2019-04-24 14:54:12,554 get_kcores: Function called with parameters year=1999, month=11
+2019-04-24 14:54:12,554 get_merged_graph: Function called with parameters year=1999, month=11
+2019-04-24 14:54:12,554 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:54:12,554 generate_BGP_graph: Function called with parameters year=1999, month=11
+2019-04-24 14:54:12,554 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:54:13,920 []
+2019-04-24 14:54:13,920 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:54:14,350 []
+2019-04-24 14:54:14,350 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:54:14,350 get_merged_graph: No info available for bgp. Giving up.
+2019-04-24 14:54:14,350 add_month_to_df: Function called with parameters year=1999, month=12, normalize=True
+2019-04-24 14:54:14,350 get_kcores: Function called with parameters year=1999, month=12
+2019-04-24 14:54:14,350 get_merged_graph: Function called with parameters year=1999, month=12
+2019-04-24 14:54:14,350 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:54:14,350 generate_BGP_graph: Function called with parameters year=1999, month=12
+2019-04-24 14:54:14,350 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:54:15,635 []
+2019-04-24 14:54:15,635 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:54:16,066 []
+2019-04-24 14:54:16,066 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:54:16,066 get_merged_graph: No info available for bgp. Giving up.
+2019-04-24 14:54:16,066 get_year_kcores: Function called with parameters year=2000, from_month=1, to_month=12, normalize=True
+2019-04-24 14:54:16,066 add_month_to_df: Function called with parameters year=2000, month=1, normalize=True
+2019-04-24 14:54:16,066 get_kcores: Function called with parameters year=2000, month=1
+2019-04-24 14:54:16,066 get_merged_graph: Function called with parameters year=2000, month=1
+2019-04-24 14:54:16,134 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000100.net successfully added
+2019-04-24 14:54:16,702 add_month_to_df: Function called with parameters year=2000, month=2, normalize=True
+2019-04-24 14:54:16,702 get_kcores: Function called with parameters year=2000, month=2
+2019-04-24 14:54:16,702 get_merged_graph: Function called with parameters year=2000, month=2
+2019-04-24 14:54:16,765 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000200.net successfully added
+2019-04-24 14:54:17,323 add_month_to_df: Function called with parameters year=2000, month=3, normalize=True
+2019-04-24 14:54:17,323 get_kcores: Function called with parameters year=2000, month=3
+2019-04-24 14:54:17,323 get_merged_graph: Function called with parameters year=2000, month=3
+2019-04-24 14:54:17,323 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:54:17,323 generate_BGP_graph: Function called with parameters year=2000, month=3
+2019-04-24 14:54:17,323 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:54:18,606 ['http://data.caida.org/datasets/as-relationships/serial-1/20000301.as-rel.txt.bz2']
+2019-04-24 14:54:18,606 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20000301.as-rel.txt.bz2
+2019-04-24 14:54:19,567 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:54:20,002 []
+2019-04-24 14:54:20,002 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:54:20,075 generate_BGP_graph: Subgraph component found. Size: 7000
+2019-04-24 14:54:20,077 generate_BGP_graph: Removing self loops.
+2019-04-24 14:54:20,163 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000300.net successfully added
+2019-04-24 14:54:20,741 add_month_to_df: Function called with parameters year=2000, month=4, normalize=True
+2019-04-24 14:54:20,741 get_kcores: Function called with parameters year=2000, month=4
+2019-04-24 14:54:20,741 get_merged_graph: Function called with parameters year=2000, month=4
+2019-04-24 14:54:20,741 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:54:20,741 generate_BGP_graph: Function called with parameters year=2000, month=4
+2019-04-24 14:54:20,741 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:54:22,092 ['http://data.caida.org/datasets/as-relationships/serial-1/20000401.as-rel.txt.bz2']
+2019-04-24 14:54:22,092 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20000401.as-rel.txt.bz2
+2019-04-24 14:54:23,183 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:54:23,633 []
+2019-04-24 14:54:23,633 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:54:23,710 generate_BGP_graph: Subgraph component found. Size: 7309
+2019-04-24 14:54:23,712 generate_BGP_graph: Removing self loops.
+2019-04-24 14:54:23,799 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000400.net successfully added
+2019-04-24 14:54:24,430 add_month_to_df: Function called with parameters year=2000, month=5, normalize=True
+2019-04-24 14:54:24,430 get_kcores: Function called with parameters year=2000, month=5
+2019-04-24 14:54:24,430 get_merged_graph: Function called with parameters year=2000, month=5
+2019-04-24 14:54:24,430 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:54:24,430 generate_BGP_graph: Function called with parameters year=2000, month=5
+2019-04-24 14:54:24,430 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:54:25,760 ['http://data.caida.org/datasets/as-relationships/serial-1/20000501.as-rel.txt.bz2']
+2019-04-24 14:54:25,760 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20000501.as-rel.txt.bz2
+2019-04-24 14:54:26,943 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:54:27,381 []
+2019-04-24 14:54:27,381 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:54:27,498 generate_BGP_graph: Subgraph component found. Size: 7613
+2019-04-24 14:54:27,500 generate_BGP_graph: Removing self loops.
+2019-04-24 14:54:27,573 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000500.net successfully added
+2019-04-24 14:54:28,219 add_month_to_df: Function called with parameters year=2000, month=6, normalize=True
+2019-04-24 14:54:28,219 get_kcores: Function called with parameters year=2000, month=6
+2019-04-24 14:54:28,219 get_merged_graph: Function called with parameters year=2000, month=6
+2019-04-24 14:54:28,219 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:54:28,219 generate_BGP_graph: Function called with parameters year=2000, month=6
+2019-04-24 14:54:28,219 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:54:29,586 ['http://data.caida.org/datasets/as-relationships/serial-1/20000601.as-rel.txt.bz2']
+2019-04-24 14:54:29,586 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20000601.as-rel.txt.bz2
+2019-04-24 14:54:30,813 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:54:31,247 []
+2019-04-24 14:54:31,247 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:54:31,365 generate_BGP_graph: Subgraph component found. Size: 7807
+2019-04-24 14:54:31,367 generate_BGP_graph: Removing self loops.
+2019-04-24 14:54:31,442 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000600.net successfully added
+2019-04-24 14:54:32,131 add_month_to_df: Function called with parameters year=2000, month=7, normalize=True
+2019-04-24 14:54:32,131 get_kcores: Function called with parameters year=2000, month=7
+2019-04-24 14:54:32,131 get_merged_graph: Function called with parameters year=2000, month=7
+2019-04-24 14:54:32,187 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000700.net successfully added
+2019-04-24 14:54:32,916 add_month_to_df: Function called with parameters year=2000, month=8, normalize=True
+2019-04-24 14:54:32,917 get_kcores: Function called with parameters year=2000, month=8
+2019-04-24 14:54:32,917 get_merged_graph: Function called with parameters year=2000, month=8
+2019-04-24 14:54:32,917 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:54:32,917 generate_BGP_graph: Function called with parameters year=2000, month=8
+2019-04-24 14:54:32,917 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:54:34,240 ['http://data.caida.org/datasets/as-relationships/serial-1/20000801.as-rel.txt.bz2']
+2019-04-24 14:54:34,240 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20000801.as-rel.txt.bz2
+2019-04-24 14:54:35,470 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:54:35,900 []
+2019-04-24 14:54:35,900 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:54:35,991 generate_BGP_graph: Subgraph component found. Size: 8284
+2019-04-24 14:54:35,994 generate_BGP_graph: Removing self loops.
+2019-04-24 14:54:36,094 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000800.net successfully added
+2019-04-24 14:54:36,805 add_month_to_df: Function called with parameters year=2000, month=9, normalize=True
+2019-04-24 14:54:36,805 get_kcores: Function called with parameters year=2000, month=9
+2019-04-24 14:54:36,805 get_merged_graph: Function called with parameters year=2000, month=9
+2019-04-24 14:54:36,805 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:54:36,805 generate_BGP_graph: Function called with parameters year=2000, month=9
+2019-04-24 14:54:36,805 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:54:38,162 ['http://data.caida.org/datasets/as-relationships/serial-1/20000901.as-rel.txt.bz2']
+2019-04-24 14:54:38,162 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20000901.as-rel.txt.bz2
+2019-04-24 14:54:39,308 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:54:39,763 []
+2019-04-24 14:54:39,763 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:54:39,895 generate_BGP_graph: Subgraph component found. Size: 8640
+2019-04-24 14:54:39,897 generate_BGP_graph: Removing self loops.
+2019-04-24 14:54:39,981 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000900.net successfully added
+2019-04-24 14:54:40,747 add_month_to_df: Function called with parameters year=2000, month=10, normalize=True
+2019-04-24 14:54:40,747 get_kcores: Function called with parameters year=2000, month=10
+2019-04-24 14:54:40,747 get_merged_graph: Function called with parameters year=2000, month=10
+2019-04-24 14:54:40,826 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20001000.net successfully added
+2019-04-24 14:54:41,587 add_month_to_df: Function called with parameters year=2000, month=11, normalize=True
+2019-04-24 14:54:41,587 get_kcores: Function called with parameters year=2000, month=11
+2019-04-24 14:54:41,587 get_merged_graph: Function called with parameters year=2000, month=11
+2019-04-24 14:54:41,587 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:54:41,587 generate_BGP_graph: Function called with parameters year=2000, month=11
+2019-04-24 14:54:41,587 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:54:42,851 ['http://data.caida.org/datasets/as-relationships/serial-1/20001101.as-rel.txt.bz2']
+2019-04-24 14:54:42,851 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20001101.as-rel.txt.bz2
+2019-04-24 14:54:44,032 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:54:44,459 []
+2019-04-24 14:54:44,460 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:54:44,589 generate_BGP_graph: Subgraph component found. Size: 9198
+2019-04-24 14:54:44,592 generate_BGP_graph: Removing self loops.
+2019-04-24 14:54:44,676 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20001100.net successfully added
+2019-04-24 14:54:45,513 add_month_to_df: Function called with parameters year=2000, month=12, normalize=True
+2019-04-24 14:54:45,513 get_kcores: Function called with parameters year=2000, month=12
+2019-04-24 14:54:45,513 get_merged_graph: Function called with parameters year=2000, month=12
+2019-04-24 14:54:45,602 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20001200.net successfully added
+2019-04-24 14:54:46,437 get_year_kcores: Function called with parameters year=2001, from_month=1, to_month=12, normalize=True
+2019-04-24 14:54:46,437 add_month_to_df: Function called with parameters year=2001, month=1, normalize=True
+2019-04-24 14:54:46,437 get_kcores: Function called with parameters year=2001, month=1
+2019-04-24 14:54:46,437 get_merged_graph: Function called with parameters year=2001, month=1
+2019-04-24 14:54:46,437 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:54:46,437 generate_BGP_graph: Function called with parameters year=2001, month=1
+2019-04-24 14:54:46,437 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:54:47,762 ['http://data.caida.org/datasets/as-relationships/serial-1/20010101.as-rel.txt.bz2']
+2019-04-24 14:54:47,762 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20010101.as-rel.txt.bz2
+2019-04-24 14:54:49,180 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:54:49,623 []
+2019-04-24 14:54:49,623 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:54:49,758 generate_BGP_graph: Subgraph component found. Size: 9832
+2019-04-24 14:54:49,761 generate_BGP_graph: Removing self loops.
+2019-04-24 14:54:49,855 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001100.net successfully added
+2019-04-24 14:54:50,733 add_month_to_df: Function called with parameters year=2001, month=2, normalize=True
+2019-04-24 14:54:50,733 get_kcores: Function called with parameters year=2001, month=2
+2019-04-24 14:54:50,734 get_merged_graph: Function called with parameters year=2001, month=2
+2019-04-24 14:54:50,734 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:54:50,734 generate_BGP_graph: Function called with parameters year=2001, month=2
+2019-04-24 14:54:50,734 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:54:52,140 ['http://data.caida.org/datasets/as-relationships/serial-1/20010201.as-rel.txt.bz2']
+2019-04-24 14:54:52,140 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20010201.as-rel.txt.bz2
+2019-04-24 14:54:53,535 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:54:53,978 []
+2019-04-24 14:54:53,978 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:54:54,092 generate_BGP_graph: Subgraph component found. Size: 10134
+2019-04-24 14:54:54,095 generate_BGP_graph: Removing self loops.
+2019-04-24 14:54:54,215 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001200.net successfully added
+2019-04-24 14:54:55,129 add_month_to_df: Function called with parameters year=2001, month=3, normalize=True
+2019-04-24 14:54:55,129 get_kcores: Function called with parameters year=2001, month=3
+2019-04-24 14:54:55,129 get_merged_graph: Function called with parameters year=2001, month=3
+2019-04-24 14:54:55,129 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:54:55,129 generate_BGP_graph: Function called with parameters year=2001, month=3
+2019-04-24 14:54:55,129 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:54:56,465 ['http://data.caida.org/datasets/as-relationships/serial-1/20010301.as-rel.txt.bz2']
+2019-04-24 14:54:56,465 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20010301.as-rel.txt.bz2
+2019-04-24 14:54:57,828 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:54:58,238 []
+2019-04-24 14:54:58,238 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:54:58,391 generate_BGP_graph: Subgraph component found. Size: 10567
+2019-04-24 14:54:58,395 generate_BGP_graph: Removing self loops.
+2019-04-24 14:54:58,504 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001300.net successfully added
+2019-04-24 14:54:59,484 add_month_to_df: Function called with parameters year=2001, month=4, normalize=True
+2019-04-24 14:54:59,484 get_kcores: Function called with parameters year=2001, month=4
+2019-04-24 14:54:59,484 get_merged_graph: Function called with parameters year=2001, month=4
+2019-04-24 14:54:59,484 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:54:59,484 generate_BGP_graph: Function called with parameters year=2001, month=4
+2019-04-24 14:54:59,484 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:55:00,819 ['http://data.caida.org/datasets/as-relationships/serial-1/20010401.as-rel.txt.bz2']
+2019-04-24 14:55:00,819 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20010401.as-rel.txt.bz2
+2019-04-24 14:55:02,210 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:55:02,652 []
+2019-04-24 14:55:02,652 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:55:02,804 generate_BGP_graph: Subgraph component found. Size: 10765
+2019-04-24 14:55:02,807 generate_BGP_graph: Removing self loops.
+2019-04-24 14:55:02,908 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001400.net successfully added
+2019-04-24 14:55:03,910 add_month_to_df: Function called with parameters year=2001, month=5, normalize=True
+2019-04-24 14:55:03,910 get_kcores: Function called with parameters year=2001, month=5
+2019-04-24 14:55:03,910 get_merged_graph: Function called with parameters year=2001, month=5
+2019-04-24 14:55:03,910 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:55:03,910 generate_BGP_graph: Function called with parameters year=2001, month=5
+2019-04-24 14:55:03,910 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:55:05,244 ['http://data.caida.org/datasets/as-relationships/serial-1/20010501.as-rel.txt.bz2']
+2019-04-24 14:55:05,244 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20010501.as-rel.txt.bz2
+2019-04-24 14:55:06,686 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:55:07,086 []
+2019-04-24 14:55:07,086 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:55:07,213 generate_BGP_graph: Subgraph component found. Size: 11045
+2019-04-24 14:55:07,216 generate_BGP_graph: Removing self loops.
+2019-04-24 14:55:07,350 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001500.net successfully added
+2019-04-24 14:55:08,374 add_month_to_df: Function called with parameters year=2001, month=6, normalize=True
+2019-04-24 14:55:08,375 get_kcores: Function called with parameters year=2001, month=6
+2019-04-24 14:55:08,375 get_merged_graph: Function called with parameters year=2001, month=6
+2019-04-24 14:55:08,375 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:55:08,375 generate_BGP_graph: Function called with parameters year=2001, month=6
+2019-04-24 14:55:08,375 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:55:09,764 ['http://data.caida.org/datasets/as-relationships/serial-1/20010601.as-rel.txt.bz2']
+2019-04-24 14:55:09,764 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20010601.as-rel.txt.bz2
+2019-04-24 14:55:11,184 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:55:11,637 []
+2019-04-24 14:55:11,637 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:55:11,799 generate_BGP_graph: Subgraph component found. Size: 11286
+2019-04-24 14:55:11,803 generate_BGP_graph: Removing self loops.
+2019-04-24 14:55:11,914 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001600.net successfully added
+2019-04-24 14:55:12,995 add_month_to_df: Function called with parameters year=2001, month=7, normalize=True
+2019-04-24 14:55:12,995 get_kcores: Function called with parameters year=2001, month=7
+2019-04-24 14:55:12,995 get_merged_graph: Function called with parameters year=2001, month=7
+2019-04-24 14:55:12,995 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:55:12,995 generate_BGP_graph: Function called with parameters year=2001, month=7
+2019-04-24 14:55:12,995 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:55:14,301 ['http://data.caida.org/datasets/as-relationships/serial-1/20010701.as-rel.txt.bz2']
+2019-04-24 14:55:14,301 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20010701.as-rel.txt.bz2
+2019-04-24 14:55:16,000 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:55:16,420 []
+2019-04-24 14:55:16,420 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:55:16,587 generate_BGP_graph: Subgraph component found. Size: 11516
+2019-04-24 14:55:16,590 generate_BGP_graph: Removing self loops.
+2019-04-24 14:55:16,730 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001700.net successfully added
+2019-04-24 14:55:17,825 add_month_to_df: Function called with parameters year=2001, month=8, normalize=True
+2019-04-24 14:55:17,825 get_kcores: Function called with parameters year=2001, month=8
+2019-04-24 14:55:17,825 get_merged_graph: Function called with parameters year=2001, month=8
+2019-04-24 14:55:17,825 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:55:17,825 generate_BGP_graph: Function called with parameters year=2001, month=8
+2019-04-24 14:55:17,825 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:55:19,155 ['http://data.caida.org/datasets/as-relationships/serial-1/20010801.as-rel.txt.bz2']
+2019-04-24 14:55:19,155 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20010801.as-rel.txt.bz2
+2019-04-24 14:55:20,564 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:55:21,003 []
+2019-04-24 14:55:21,004 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:55:21,167 generate_BGP_graph: Subgraph component found. Size: 11733
+2019-04-24 14:55:21,171 generate_BGP_graph: Removing self loops.
+2019-04-24 14:55:21,313 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001800.net successfully added
+2019-04-24 14:55:22,467 add_month_to_df: Function called with parameters year=2001, month=9, normalize=True
+2019-04-24 14:55:22,467 get_kcores: Function called with parameters year=2001, month=9
+2019-04-24 14:55:22,467 get_merged_graph: Function called with parameters year=2001, month=9
+2019-04-24 14:55:22,467 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:55:22,467 generate_BGP_graph: Function called with parameters year=2001, month=9
+2019-04-24 14:55:22,467 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:55:23,775 ['http://data.caida.org/datasets/as-relationships/serial-1/20010901.as-rel.txt.bz2']
+2019-04-24 14:55:23,775 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20010901.as-rel.txt.bz2
+2019-04-24 14:55:25,425 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:55:25,855 []
+2019-04-24 14:55:25,855 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:55:26,027 generate_BGP_graph: Subgraph component found. Size: 11888
+2019-04-24 14:55:26,031 generate_BGP_graph: Removing self loops.
+2019-04-24 14:55:26,152 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001900.net successfully added
+2019-04-24 14:55:27,358 add_month_to_df: Function called with parameters year=2001, month=10, normalize=True
+2019-04-24 14:55:27,358 get_kcores: Function called with parameters year=2001, month=10
+2019-04-24 14:55:27,358 get_merged_graph: Function called with parameters year=2001, month=10
+2019-04-24 14:55:27,358 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:55:27,358 generate_BGP_graph: Function called with parameters year=2001, month=10
+2019-04-24 14:55:27,358 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:55:28,645 ['http://data.caida.org/datasets/as-relationships/serial-1/20011001.as-rel.txt.bz2']
+2019-04-24 14:55:28,645 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20011001.as-rel.txt.bz2
+2019-04-24 14:55:30,190 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:55:30,633 []
+2019-04-24 14:55:30,633 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:55:30,806 generate_BGP_graph: Subgraph component found. Size: 12165
+2019-04-24 14:55:30,810 generate_BGP_graph: Removing self loops.
+2019-04-24 14:55:30,956 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20011000.net successfully added
+2019-04-24 14:55:32,179 add_month_to_df: Function called with parameters year=2001, month=11, normalize=True
+2019-04-24 14:55:32,179 get_kcores: Function called with parameters year=2001, month=11
+2019-04-24 14:55:32,179 get_merged_graph: Function called with parameters year=2001, month=11
+2019-04-24 14:55:32,179 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:55:32,179 generate_BGP_graph: Function called with parameters year=2001, month=11
+2019-04-24 14:55:32,179 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:55:33,470 ['http://data.caida.org/datasets/as-relationships/serial-1/20011101.as-rel.txt.bz2']
+2019-04-24 14:55:33,470 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20011101.as-rel.txt.bz2
+2019-04-24 14:55:35,158 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:55:35,598 []
+2019-04-24 14:55:35,598 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:55:35,773 generate_BGP_graph: Subgraph component found. Size: 12305
+2019-04-24 14:55:35,777 generate_BGP_graph: Removing self loops.
+2019-04-24 14:55:35,929 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20011100.net successfully added
+2019-04-24 14:55:37,185 add_month_to_df: Function called with parameters year=2001, month=12, normalize=True
+2019-04-24 14:55:37,185 get_kcores: Function called with parameters year=2001, month=12
+2019-04-24 14:55:37,185 get_merged_graph: Function called with parameters year=2001, month=12
+2019-04-24 14:55:37,185 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:55:37,185 generate_BGP_graph: Function called with parameters year=2001, month=12
+2019-04-24 14:55:37,185 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:55:38,491 ['http://data.caida.org/datasets/as-relationships/serial-1/20011201.as-rel.txt.bz2']
+2019-04-24 14:55:38,491 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20011201.as-rel.txt.bz2
+2019-04-24 14:55:40,111 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:55:40,541 []
+2019-04-24 14:55:40,541 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:55:40,685 generate_BGP_graph: Subgraph component found. Size: 12468
+2019-04-24 14:55:40,689 generate_BGP_graph: Removing self loops.
+2019-04-24 14:55:40,830 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20011200.net successfully added
+2019-04-24 14:55:42,214 get_year_kcores: Function called with parameters year=2002, from_month=1, to_month=12, normalize=True
+2019-04-24 14:55:42,214 add_month_to_df: Function called with parameters year=2002, month=1, normalize=True
+2019-04-24 14:55:42,214 get_kcores: Function called with parameters year=2002, month=1
+2019-04-24 14:55:42,214 get_merged_graph: Function called with parameters year=2002, month=1
+2019-04-24 14:55:42,214 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:55:42,214 generate_BGP_graph: Function called with parameters year=2002, month=1
+2019-04-24 14:55:42,214 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:55:43,519 ['http://data.caida.org/datasets/as-relationships/serial-1/20020101.as-rel.txt.bz2']
+2019-04-24 14:55:43,519 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20020101.as-rel.txt.bz2
+2019-04-24 14:55:45,114 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:55:45,548 []
+2019-04-24 14:55:45,548 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:55:45,702 generate_BGP_graph: Subgraph component found. Size: 12581
+2019-04-24 14:55:45,706 generate_BGP_graph: Removing self loops.
+2019-04-24 14:55:45,856 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002100.net successfully added
+2019-04-24 14:55:47,238 add_month_to_df: Function called with parameters year=2002, month=2, normalize=True
+2019-04-24 14:55:47,238 get_kcores: Function called with parameters year=2002, month=2
+2019-04-24 14:55:47,239 get_merged_graph: Function called with parameters year=2002, month=2
+2019-04-24 14:55:47,239 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:55:47,239 generate_BGP_graph: Function called with parameters year=2002, month=2
+2019-04-24 14:55:47,239 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:55:48,513 ['http://data.caida.org/datasets/as-relationships/serial-1/20020201.as-rel.txt.bz2']
+2019-04-24 14:55:48,513 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20020201.as-rel.txt.bz2
+2019-04-24 14:55:50,248 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:55:50,659 []
+2019-04-24 14:55:50,659 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:55:50,840 generate_BGP_graph: Subgraph component found. Size: 12753
+2019-04-24 14:55:50,843 generate_BGP_graph: Removing self loops.
+2019-04-24 14:55:50,996 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002200.net successfully added
+2019-04-24 14:55:52,389 add_month_to_df: Function called with parameters year=2002, month=3, normalize=True
+2019-04-24 14:55:52,389 get_kcores: Function called with parameters year=2002, month=3
+2019-04-24 14:55:52,390 get_merged_graph: Function called with parameters year=2002, month=3
+2019-04-24 14:55:52,390 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:55:52,390 generate_BGP_graph: Function called with parameters year=2002, month=3
+2019-04-24 14:55:52,390 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:55:53,763 ['http://data.caida.org/datasets/as-relationships/serial-1/20020301.as-rel.txt.bz2']
+2019-04-24 14:55:53,763 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20020301.as-rel.txt.bz2
+2019-04-24 14:55:55,530 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:55:55,977 []
+2019-04-24 14:55:55,977 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:55:56,167 generate_BGP_graph: Subgraph component found. Size: 12945
+2019-04-24 14:55:56,171 generate_BGP_graph: Removing self loops.
+2019-04-24 14:55:56,302 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002300.net successfully added
+2019-04-24 14:55:57,726 add_month_to_df: Function called with parameters year=2002, month=4, normalize=True
+2019-04-24 14:55:57,726 get_kcores: Function called with parameters year=2002, month=4
+2019-04-24 14:55:57,726 get_merged_graph: Function called with parameters year=2002, month=4
+2019-04-24 14:55:57,726 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:55:57,726 generate_BGP_graph: Function called with parameters year=2002, month=4
+2019-04-24 14:55:57,726 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:55:58,931 ['http://data.caida.org/datasets/as-relationships/serial-1/20020401.as-rel.txt.bz2']
+2019-04-24 14:55:58,931 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20020401.as-rel.txt.bz2
+2019-04-24 14:56:00,688 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:56:01,140 []
+2019-04-24 14:56:01,141 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:56:01,315 generate_BGP_graph: Subgraph component found. Size: 13128
+2019-04-24 14:56:01,319 generate_BGP_graph: Removing self loops.
+2019-04-24 14:56:01,467 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002400.net successfully added
+2019-04-24 14:56:02,977 add_month_to_df: Function called with parameters year=2002, month=5, normalize=True
+2019-04-24 14:56:02,978 get_kcores: Function called with parameters year=2002, month=5
+2019-04-24 14:56:02,978 get_merged_graph: Function called with parameters year=2002, month=5
+2019-04-24 14:56:02,978 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:56:02,978 generate_BGP_graph: Function called with parameters year=2002, month=5
+2019-04-24 14:56:02,978 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:56:04,222 ['http://data.caida.org/datasets/as-relationships/serial-1/20020501.as-rel.txt.bz2']
+2019-04-24 14:56:04,222 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20020501.as-rel.txt.bz2
+2019-04-24 14:56:05,949 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:56:06,416 []
+2019-04-24 14:56:06,416 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:56:06,570 generate_BGP_graph: Subgraph component found. Size: 13260
+2019-04-24 14:56:06,574 generate_BGP_graph: Removing self loops.
+2019-04-24 14:56:06,727 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002500.net successfully added
+2019-04-24 14:56:08,239 add_month_to_df: Function called with parameters year=2002, month=6, normalize=True
+2019-04-24 14:56:08,239 get_kcores: Function called with parameters year=2002, month=6
+2019-04-24 14:56:08,239 get_merged_graph: Function called with parameters year=2002, month=6
+2019-04-24 14:56:08,239 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:56:08,239 generate_BGP_graph: Function called with parameters year=2002, month=6
+2019-04-24 14:56:08,239 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:56:09,611 ['http://data.caida.org/datasets/as-relationships/serial-1/20020601.as-rel.txt.bz2']
+2019-04-24 14:56:09,611 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20020601.as-rel.txt.bz2
+2019-04-24 14:56:11,328 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:56:11,769 []
+2019-04-24 14:56:11,769 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:56:11,962 generate_BGP_graph: Subgraph component found. Size: 13381
+2019-04-24 14:56:11,967 generate_BGP_graph: Removing self loops.
+2019-04-24 14:56:12,107 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002600.net successfully added
+2019-04-24 14:56:13,659 add_month_to_df: Function called with parameters year=2002, month=7, normalize=True
+2019-04-24 14:56:13,659 get_kcores: Function called with parameters year=2002, month=7
+2019-04-24 14:56:13,659 get_merged_graph: Function called with parameters year=2002, month=7
+2019-04-24 14:56:13,659 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:56:13,660 generate_BGP_graph: Function called with parameters year=2002, month=7
+2019-04-24 14:56:13,660 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:56:14,903 ['http://data.caida.org/datasets/as-relationships/serial-1/20020701.as-rel.txt.bz2']
+2019-04-24 14:56:14,903 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20020701.as-rel.txt.bz2
+2019-04-24 14:56:16,589 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:56:17,001 []
+2019-04-24 14:56:17,001 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:56:17,160 generate_BGP_graph: Subgraph component found. Size: 13548
+2019-04-24 14:56:17,164 generate_BGP_graph: Removing self loops.
+2019-04-24 14:56:17,352 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002700.net successfully added
+2019-04-24 14:56:18,920 add_month_to_df: Function called with parameters year=2002, month=8, normalize=True
+2019-04-24 14:56:18,921 get_kcores: Function called with parameters year=2002, month=8
+2019-04-24 14:56:18,921 get_merged_graph: Function called with parameters year=2002, month=8
+2019-04-24 14:56:18,921 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:56:18,921 generate_BGP_graph: Function called with parameters year=2002, month=8
+2019-04-24 14:56:18,921 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:56:20,301 ['http://data.caida.org/datasets/as-relationships/serial-1/20020801.as-rel.txt.bz2']
+2019-04-24 14:56:20,301 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20020801.as-rel.txt.bz2
+2019-04-24 14:56:22,039 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:56:22,461 []
+2019-04-24 14:56:22,461 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:56:22,658 generate_BGP_graph: Subgraph component found. Size: 13738
+2019-04-24 14:56:22,663 generate_BGP_graph: Removing self loops.
+2019-04-24 14:56:22,800 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002800.net successfully added
+2019-04-24 14:56:24,427 add_month_to_df: Function called with parameters year=2002, month=9, normalize=True
+2019-04-24 14:56:24,427 get_kcores: Function called with parameters year=2002, month=9
+2019-04-24 14:56:24,427 get_merged_graph: Function called with parameters year=2002, month=9
+2019-04-24 14:56:24,427 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:56:24,427 generate_BGP_graph: Function called with parameters year=2002, month=9
+2019-04-24 14:56:24,427 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:56:25,728 ['http://data.caida.org/datasets/as-relationships/serial-1/20020901.as-rel.txt.bz2']
+2019-04-24 14:56:25,728 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20020901.as-rel.txt.bz2
+2019-04-24 14:56:27,383 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:56:27,812 []
+2019-04-24 14:56:27,812 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:56:28,011 generate_BGP_graph: Subgraph component found. Size: 13857
+2019-04-24 14:56:28,016 generate_BGP_graph: Removing self loops.
+2019-04-24 14:56:28,155 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002900.net successfully added
+2019-04-24 14:56:29,803 add_month_to_df: Function called with parameters year=2002, month=10, normalize=True
+2019-04-24 14:56:29,803 get_kcores: Function called with parameters year=2002, month=10
+2019-04-24 14:56:29,804 get_merged_graph: Function called with parameters year=2002, month=10
+2019-04-24 14:56:29,804 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:56:29,804 generate_BGP_graph: Function called with parameters year=2002, month=10
+2019-04-24 14:56:29,804 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:56:31,133 ['http://data.caida.org/datasets/as-relationships/serial-1/20021001.as-rel.txt.bz2']
+2019-04-24 14:56:31,133 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20021001.as-rel.txt.bz2
+2019-04-24 14:56:32,837 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:56:33,250 []
+2019-04-24 14:56:33,250 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:56:33,458 generate_BGP_graph: Subgraph component found. Size: 14087
+2019-04-24 14:56:33,462 generate_BGP_graph: Removing self loops.
+2019-04-24 14:56:33,606 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20021000.net successfully added
+2019-04-24 14:56:35,294 add_month_to_df: Function called with parameters year=2002, month=11, normalize=True
+2019-04-24 14:56:35,294 get_kcores: Function called with parameters year=2002, month=11
+2019-04-24 14:56:35,294 get_merged_graph: Function called with parameters year=2002, month=11
+2019-04-24 14:56:35,429 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20021100.net successfully added
+2019-04-24 14:56:37,157 add_month_to_df: Function called with parameters year=2002, month=12, normalize=True
+2019-04-24 14:56:37,157 get_kcores: Function called with parameters year=2002, month=12
+2019-04-24 14:56:37,157 get_merged_graph: Function called with parameters year=2002, month=12
+2019-04-24 14:56:37,157 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:56:37,157 generate_BGP_graph: Function called with parameters year=2002, month=12
+2019-04-24 14:56:37,157 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:56:38,432 ['http://data.caida.org/datasets/as-relationships/serial-1/20021201.as-rel.txt.bz2']
+2019-04-24 14:56:38,432 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20021201.as-rel.txt.bz2
+2019-04-24 14:56:40,020 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:56:40,455 []
+2019-04-24 14:56:40,455 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:56:40,656 generate_BGP_graph: Subgraph component found. Size: 14370
+2019-04-24 14:56:40,660 generate_BGP_graph: Removing self loops.
+2019-04-24 14:56:40,826 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20021200.net successfully added
+2019-04-24 14:56:42,522 get_year_kcores: Function called with parameters year=2003, from_month=1, to_month=12, normalize=True
+2019-04-24 14:56:42,522 add_month_to_df: Function called with parameters year=2003, month=1, normalize=True
+2019-04-24 14:56:42,522 get_kcores: Function called with parameters year=2003, month=1
+2019-04-24 14:56:42,522 get_merged_graph: Function called with parameters year=2003, month=1
+2019-04-24 14:56:42,522 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:56:42,522 generate_BGP_graph: Function called with parameters year=2003, month=1
+2019-04-24 14:56:42,523 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:56:43,817 ['http://data.caida.org/datasets/as-relationships/serial-1/20030101.as-rel.txt.bz2']
+2019-04-24 14:56:43,817 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20030101.as-rel.txt.bz2
+2019-04-24 14:56:45,658 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:56:46,109 []
+2019-04-24 14:56:46,109 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:56:46,322 generate_BGP_graph: Subgraph component found. Size: 14548
+2019-04-24 14:56:46,327 generate_BGP_graph: Removing self loops.
+2019-04-24 14:56:46,479 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003100.net successfully added
+2019-04-24 14:56:48,244 add_month_to_df: Function called with parameters year=2003, month=2, normalize=True
+2019-04-24 14:56:48,244 get_kcores: Function called with parameters year=2003, month=2
+2019-04-24 14:56:48,244 get_merged_graph: Function called with parameters year=2003, month=2
+2019-04-24 14:56:48,358 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003200.net successfully added
+2019-04-24 14:56:50,200 add_month_to_df: Function called with parameters year=2003, month=3, normalize=True
+2019-04-24 14:56:50,200 get_kcores: Function called with parameters year=2003, month=3
+2019-04-24 14:56:50,200 get_merged_graph: Function called with parameters year=2003, month=3
+2019-04-24 14:56:50,200 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:56:50,200 generate_BGP_graph: Function called with parameters year=2003, month=3
+2019-04-24 14:56:50,200 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:56:51,464 ['http://data.caida.org/datasets/as-relationships/serial-1/20030301.as-rel.txt.bz2']
+2019-04-24 14:56:51,464 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20030301.as-rel.txt.bz2
+2019-04-24 14:56:53,288 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:56:53,719 []
+2019-04-24 14:56:53,719 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:56:53,933 generate_BGP_graph: Subgraph component found. Size: 14963
+2019-04-24 14:56:53,937 generate_BGP_graph: Removing self loops.
+2019-04-24 14:56:54,124 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003300.net successfully added
+2019-04-24 14:56:55,891 add_month_to_df: Function called with parameters year=2003, month=4, normalize=True
+2019-04-24 14:56:55,891 get_kcores: Function called with parameters year=2003, month=4
+2019-04-24 14:56:55,891 get_merged_graph: Function called with parameters year=2003, month=4
+2019-04-24 14:56:56,031 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003400.net successfully added
+2019-04-24 14:56:57,843 add_month_to_df: Function called with parameters year=2003, month=5, normalize=True
+2019-04-24 14:56:57,844 get_kcores: Function called with parameters year=2003, month=5
+2019-04-24 14:56:57,844 get_merged_graph: Function called with parameters year=2003, month=5
+2019-04-24 14:56:57,844 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:56:57,844 generate_BGP_graph: Function called with parameters year=2003, month=5
+2019-04-24 14:56:57,844 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:56:59,261 ['http://data.caida.org/datasets/as-relationships/serial-1/20030501.as-rel.txt.bz2']
+2019-04-24 14:56:59,261 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20030501.as-rel.txt.bz2
+2019-04-24 14:57:01,215 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:57:01,663 []
+2019-04-24 14:57:01,664 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:57:01,889 generate_BGP_graph: Subgraph component found. Size: 15320
+2019-04-24 14:57:01,894 generate_BGP_graph: Removing self loops.
+2019-04-24 14:57:02,085 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003500.net successfully added
+2019-04-24 14:57:03,944 add_month_to_df: Function called with parameters year=2003, month=6, normalize=True
+2019-04-24 14:57:03,944 get_kcores: Function called with parameters year=2003, month=6
+2019-04-24 14:57:03,945 get_merged_graph: Function called with parameters year=2003, month=6
+2019-04-24 14:57:03,945 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:57:03,945 generate_BGP_graph: Function called with parameters year=2003, month=6
+2019-04-24 14:57:03,945 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:57:05,299 ['http://data.caida.org/datasets/as-relationships/serial-1/20030601.as-rel.txt.bz2']
+2019-04-24 14:57:05,299 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20030601.as-rel.txt.bz2
+2019-04-24 14:57:07,187 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:57:07,638 []
+2019-04-24 14:57:07,639 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:57:07,868 generate_BGP_graph: Subgraph component found. Size: 15488
+2019-04-24 14:57:07,873 generate_BGP_graph: Removing self loops.
+2019-04-24 14:57:08,076 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003600.net successfully added
+2019-04-24 14:57:09,934 add_month_to_df: Function called with parameters year=2003, month=7, normalize=True
+2019-04-24 14:57:09,934 get_kcores: Function called with parameters year=2003, month=7
+2019-04-24 14:57:09,934 get_merged_graph: Function called with parameters year=2003, month=7
+2019-04-24 14:57:10,088 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003700.net successfully added
+2019-04-24 14:57:12,071 add_month_to_df: Function called with parameters year=2003, month=8, normalize=True
+2019-04-24 14:57:12,071 get_kcores: Function called with parameters year=2003, month=8
+2019-04-24 14:57:12,071 get_merged_graph: Function called with parameters year=2003, month=8
+2019-04-24 14:57:12,219 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003800.net successfully added
+2019-04-24 14:57:14,145 add_month_to_df: Function called with parameters year=2003, month=9, normalize=True
+2019-04-24 14:57:14,145 get_kcores: Function called with parameters year=2003, month=9
+2019-04-24 14:57:14,145 get_merged_graph: Function called with parameters year=2003, month=9
+2019-04-24 14:57:14,145 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:57:14,145 generate_BGP_graph: Function called with parameters year=2003, month=9
+2019-04-24 14:57:14,145 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:57:15,429 ['http://data.caida.org/datasets/as-relationships/serial-1/20030901.as-rel.txt.bz2']
+2019-04-24 14:57:15,429 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20030901.as-rel.txt.bz2
+2019-04-24 14:57:17,665 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:57:18,109 []
+2019-04-24 14:57:18,109 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:57:18,310 generate_BGP_graph: Subgraph component found. Size: 15965
+2019-04-24 14:57:18,315 generate_BGP_graph: Removing self loops.
+2019-04-24 14:57:18,546 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003900.net successfully added
+2019-04-24 14:57:20,543 add_month_to_df: Function called with parameters year=2003, month=10, normalize=True
+2019-04-24 14:57:20,543 get_kcores: Function called with parameters year=2003, month=10
+2019-04-24 14:57:20,543 get_merged_graph: Function called with parameters year=2003, month=10
+2019-04-24 14:57:20,543 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:57:20,543 generate_BGP_graph: Function called with parameters year=2003, month=10
+2019-04-24 14:57:20,543 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:57:21,861 ['http://data.caida.org/datasets/as-relationships/serial-1/20031001.as-rel.txt.bz2']
+2019-04-24 14:57:21,861 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20031001.as-rel.txt.bz2
+2019-04-24 14:57:24,022 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:57:24,465 []
+2019-04-24 14:57:24,465 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:57:24,705 generate_BGP_graph: Subgraph component found. Size: 16115
+2019-04-24 14:57:24,710 generate_BGP_graph: Removing self loops.
+2019-04-24 14:57:24,882 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20031000.net successfully added
+2019-04-24 14:57:26,897 add_month_to_df: Function called with parameters year=2003, month=11, normalize=True
+2019-04-24 14:57:26,897 get_kcores: Function called with parameters year=2003, month=11
+2019-04-24 14:57:26,897 get_merged_graph: Function called with parameters year=2003, month=11
+2019-04-24 14:57:27,050 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20031100.net successfully added
+2019-04-24 14:57:29,139 add_month_to_df: Function called with parameters year=2003, month=12, normalize=True
+2019-04-24 14:57:29,140 get_kcores: Function called with parameters year=2003, month=12
+2019-04-24 14:57:29,140 get_merged_graph: Function called with parameters year=2003, month=12
+2019-04-24 14:57:29,140 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:57:29,140 generate_BGP_graph: Function called with parameters year=2003, month=12
+2019-04-24 14:57:29,140 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:57:30,524 ['http://data.caida.org/datasets/as-relationships/serial-1/20031201.as-rel.txt.bz2']
+2019-04-24 14:57:30,524 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20031201.as-rel.txt.bz2
+2019-04-24 14:57:32,712 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:57:33,125 []
+2019-04-24 14:57:33,126 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:57:33,381 generate_BGP_graph: Subgraph component found. Size: 16470
+2019-04-24 14:57:33,387 generate_BGP_graph: Removing self loops.
+2019-04-24 14:57:33,605 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20031200.net successfully added
+2019-04-24 14:57:35,640 get_year_kcores: Function called with parameters year=2004, from_month=1, to_month=12, normalize=True
+2019-04-24 14:57:35,640 add_month_to_df: Function called with parameters year=2004, month=1, normalize=True
+2019-04-24 14:57:35,640 get_kcores: Function called with parameters year=2004, month=1
+2019-04-24 14:57:35,640 get_merged_graph: Function called with parameters year=2004, month=1
+2019-04-24 14:57:35,793 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004100.net successfully added
+2019-04-24 14:57:37,911 add_month_to_df: Function called with parameters year=2004, month=2, normalize=True
+2019-04-24 14:57:37,911 get_kcores: Function called with parameters year=2004, month=2
+2019-04-24 14:57:37,911 get_merged_graph: Function called with parameters year=2004, month=2
+2019-04-24 14:57:37,912 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:57:37,912 generate_BGP_graph: Function called with parameters year=2004, month=2
+2019-04-24 14:57:37,912 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:57:39,203 ['http://data.caida.org/datasets/as-relationships/serial-1/20040201.as-rel.txt.bz2']
+2019-04-24 14:57:39,203 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20040201.as-rel.txt.bz2
+2019-04-24 14:57:41,184 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:57:41,625 []
+2019-04-24 14:57:41,625 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:57:41,867 generate_BGP_graph: Subgraph component found. Size: 16758
+2019-04-24 14:57:41,873 generate_BGP_graph: Removing self loops.
+2019-04-24 14:57:42,077 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004200.net successfully added
+2019-04-24 14:57:44,211 add_month_to_df: Function called with parameters year=2004, month=3, normalize=True
+2019-04-24 14:57:44,211 get_kcores: Function called with parameters year=2004, month=3
+2019-04-24 14:57:44,211 get_merged_graph: Function called with parameters year=2004, month=3
+2019-04-24 14:57:44,376 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004300.net successfully added
+2019-04-24 14:57:46,464 add_month_to_df: Function called with parameters year=2004, month=4, normalize=True
+2019-04-24 14:57:46,464 get_kcores: Function called with parameters year=2004, month=4
+2019-04-24 14:57:46,464 get_merged_graph: Function called with parameters year=2004, month=4
+2019-04-24 14:57:46,464 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:57:46,464 generate_BGP_graph: Function called with parameters year=2004, month=4
+2019-04-24 14:57:46,464 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:57:47,775 ['http://data.caida.org/datasets/as-relationships/serial-1/20040401.as-rel.txt.bz2']
+2019-04-24 14:57:47,775 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20040401.as-rel.txt.bz2
+2019-04-24 14:57:49,919 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:57:50,311 []
+2019-04-24 14:57:50,311 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:57:50,575 generate_BGP_graph: Subgraph component found. Size: 17303
+2019-04-24 14:57:50,581 generate_BGP_graph: Removing self loops.
+2019-04-24 14:57:50,811 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004400.net successfully added
+2019-04-24 14:57:52,958 add_month_to_df: Function called with parameters year=2004, month=5, normalize=True
+2019-04-24 14:57:52,958 get_kcores: Function called with parameters year=2004, month=5
+2019-04-24 14:57:52,958 get_merged_graph: Function called with parameters year=2004, month=5
+2019-04-24 14:57:52,958 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:57:52,958 generate_BGP_graph: Function called with parameters year=2004, month=5
+2019-04-24 14:57:52,958 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:57:54,209 ['http://data.caida.org/datasets/as-relationships/serial-1/20040501.as-rel.txt.bz2']
+2019-04-24 14:57:54,209 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20040501.as-rel.txt.bz2
+2019-04-24 14:57:56,523 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:57:56,965 []
+2019-04-24 14:57:56,965 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:57:57,230 generate_BGP_graph: Subgraph component found. Size: 17460
+2019-04-24 14:57:57,235 generate_BGP_graph: Removing self loops.
+2019-04-24 14:57:57,456 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004500.net successfully added
+2019-04-24 14:57:59,683 add_month_to_df: Function called with parameters year=2004, month=6, normalize=True
+2019-04-24 14:57:59,683 get_kcores: Function called with parameters year=2004, month=6
+2019-04-24 14:57:59,683 get_merged_graph: Function called with parameters year=2004, month=6
+2019-04-24 14:57:59,871 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004600.net successfully added
+2019-04-24 14:58:02,083 add_month_to_df: Function called with parameters year=2004, month=7, normalize=True
+2019-04-24 14:58:02,083 get_kcores: Function called with parameters year=2004, month=7
+2019-04-24 14:58:02,083 get_merged_graph: Function called with parameters year=2004, month=7
+2019-04-24 14:58:02,083 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:58:02,083 generate_BGP_graph: Function called with parameters year=2004, month=7
+2019-04-24 14:58:02,083 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:58:03,453 ['http://data.caida.org/datasets/as-relationships/serial-1/20040701.as-rel.txt.bz2']
+2019-04-24 14:58:03,454 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20040701.as-rel.txt.bz2
+2019-04-24 14:58:05,654 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:58:06,107 []
+2019-04-24 14:58:06,107 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:58:06,388 generate_BGP_graph: Subgraph component found. Size: 17830
+2019-04-24 14:58:06,395 generate_BGP_graph: Removing self loops.
+2019-04-24 14:58:06,632 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004700.net successfully added
+2019-04-24 14:58:08,858 add_month_to_df: Function called with parameters year=2004, month=8, normalize=True
+2019-04-24 14:58:08,859 get_kcores: Function called with parameters year=2004, month=8
+2019-04-24 14:58:08,859 get_merged_graph: Function called with parameters year=2004, month=8
+2019-04-24 14:58:08,859 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:58:08,859 generate_BGP_graph: Function called with parameters year=2004, month=8
+2019-04-24 14:58:08,859 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:58:10,151 ['http://data.caida.org/datasets/as-relationships/serial-1/20040801.as-rel.txt.bz2']
+2019-04-24 14:58:10,151 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20040801.as-rel.txt.bz2
+2019-04-24 14:58:12,554 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:58:13,006 []
+2019-04-24 14:58:13,006 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:58:13,281 generate_BGP_graph: Subgraph component found. Size: 18017
+2019-04-24 14:58:13,288 generate_BGP_graph: Removing self loops.
+2019-04-24 14:58:13,524 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004800.net successfully added
+2019-04-24 14:58:15,834 add_month_to_df: Function called with parameters year=2004, month=9, normalize=True
+2019-04-24 14:58:15,834 get_kcores: Function called with parameters year=2004, month=9
+2019-04-24 14:58:15,834 get_merged_graph: Function called with parameters year=2004, month=9
+2019-04-24 14:58:15,834 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:58:15,834 generate_BGP_graph: Function called with parameters year=2004, month=9
+2019-04-24 14:58:15,834 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:58:17,102 ['http://data.caida.org/datasets/as-relationships/serial-1/20040901.as-rel.txt.bz2']
+2019-04-24 14:58:17,102 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20040901.as-rel.txt.bz2
+2019-04-24 14:58:19,580 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:58:20,023 []
+2019-04-24 14:58:20,023 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:58:20,303 generate_BGP_graph: Subgraph component found. Size: 18249
+2019-04-24 14:58:20,310 generate_BGP_graph: Removing self loops.
+2019-04-24 14:58:20,543 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004900.net successfully added
+2019-04-24 14:58:22,877 add_month_to_df: Function called with parameters year=2004, month=10, normalize=True
+2019-04-24 14:58:22,878 get_kcores: Function called with parameters year=2004, month=10
+2019-04-24 14:58:22,878 get_merged_graph: Function called with parameters year=2004, month=10
+2019-04-24 14:58:22,878 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:58:22,878 generate_BGP_graph: Function called with parameters year=2004, month=10
+2019-04-24 14:58:22,878 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:58:24,078 ['http://data.caida.org/datasets/as-relationships/serial-1/20041001.as-rel.txt.bz2']
+2019-04-24 14:58:24,078 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20041001.as-rel.txt.bz2
+2019-04-24 14:58:26,461 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:58:26,905 []
+2019-04-24 14:58:26,905 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:58:27,184 generate_BGP_graph: Subgraph component found. Size: 18454
+2019-04-24 14:58:27,191 generate_BGP_graph: Removing self loops.
+2019-04-24 14:58:27,437 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20041000.net successfully added
+2019-04-24 14:58:29,796 add_month_to_df: Function called with parameters year=2004, month=11, normalize=True
+2019-04-24 14:58:29,796 get_kcores: Function called with parameters year=2004, month=11
+2019-04-24 14:58:29,796 get_merged_graph: Function called with parameters year=2004, month=11
+2019-04-24 14:58:29,796 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:58:29,796 generate_BGP_graph: Function called with parameters year=2004, month=11
+2019-04-24 14:58:29,796 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:58:31,123 ['http://data.caida.org/datasets/as-relationships/serial-1/20041101.as-rel.txt.bz2']
+2019-04-24 14:58:31,123 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20041101.as-rel.txt.bz2
+2019-04-24 14:58:33,520 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:58:33,953 []
+2019-04-24 14:58:33,954 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:58:34,247 generate_BGP_graph: Subgraph component found. Size: 18626
+2019-04-24 14:58:34,254 generate_BGP_graph: Removing self loops.
+2019-04-24 14:58:34,505 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20041100.net successfully added
+2019-04-24 14:58:36,835 add_month_to_df: Function called with parameters year=2004, month=12, normalize=True
+2019-04-24 14:58:36,835 get_kcores: Function called with parameters year=2004, month=12
+2019-04-24 14:58:36,835 get_merged_graph: Function called with parameters year=2004, month=12
+2019-04-24 14:58:36,835 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:58:36,835 generate_BGP_graph: Function called with parameters year=2004, month=12
+2019-04-24 14:58:36,835 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:58:38,245 ['http://data.caida.org/datasets/as-relationships/serial-1/20041201.as-rel.txt.bz2']
+2019-04-24 14:58:38,245 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20041201.as-rel.txt.bz2
+2019-04-24 14:58:40,663 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:58:41,064 []
+2019-04-24 14:58:41,064 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:58:41,396 generate_BGP_graph: Subgraph component found. Size: 18827
+2019-04-24 14:58:41,404 generate_BGP_graph: Removing self loops.
+2019-04-24 14:58:41,622 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20041200.net successfully added
+2019-04-24 14:58:44,017 get_year_kcores: Function called with parameters year=2005, from_month=1, to_month=12, normalize=True
+2019-04-24 14:58:44,017 add_month_to_df: Function called with parameters year=2005, month=1, normalize=True
+2019-04-24 14:58:44,017 get_kcores: Function called with parameters year=2005, month=1
+2019-04-24 14:58:44,017 get_merged_graph: Function called with parameters year=2005, month=1
+2019-04-24 14:58:44,017 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:58:44,018 generate_BGP_graph: Function called with parameters year=2005, month=1
+2019-04-24 14:58:44,018 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:58:45,315 ['http://data.caida.org/datasets/as-relationships/serial-1/20050101.as-rel.txt.bz2']
+2019-04-24 14:58:45,315 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20050101.as-rel.txt.bz2
+2019-04-24 14:58:47,842 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:58:48,278 []
+2019-04-24 14:58:48,278 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:58:48,568 generate_BGP_graph: Subgraph component found. Size: 18962
+2019-04-24 14:58:48,576 generate_BGP_graph: Removing self loops.
+2019-04-24 14:58:48,814 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005100.net successfully added
+2019-04-24 14:58:51,254 add_month_to_df: Function called with parameters year=2005, month=2, normalize=True
+2019-04-24 14:58:51,255 get_kcores: Function called with parameters year=2005, month=2
+2019-04-24 14:58:51,255 get_merged_graph: Function called with parameters year=2005, month=2
+2019-04-24 14:58:51,255 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:58:51,255 generate_BGP_graph: Function called with parameters year=2005, month=2
+2019-04-24 14:58:51,255 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:58:52,607 ['http://data.caida.org/datasets/as-relationships/serial-1/20050201.as-rel.txt.bz2']
+2019-04-24 14:58:52,607 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20050201.as-rel.txt.bz2
+2019-04-24 14:58:54,939 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:58:55,380 []
+2019-04-24 14:58:55,380 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:58:55,678 generate_BGP_graph: Subgraph component found. Size: 19186
+2019-04-24 14:58:55,686 generate_BGP_graph: Removing self loops.
+2019-04-24 14:58:55,935 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005200.net successfully added
+2019-04-24 14:58:58,828 add_month_to_df: Function called with parameters year=2005, month=3, normalize=True
+2019-04-24 14:58:58,828 get_kcores: Function called with parameters year=2005, month=3
+2019-04-24 14:58:58,828 get_merged_graph: Function called with parameters year=2005, month=3
+2019-04-24 14:58:58,828 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:58:58,828 generate_BGP_graph: Function called with parameters year=2005, month=3
+2019-04-24 14:58:58,828 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:59:00,200 ['http://data.caida.org/datasets/as-relationships/serial-1/20050301.as-rel.txt.bz2']
+2019-04-24 14:59:00,200 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20050301.as-rel.txt.bz2
+2019-04-24 14:59:03,787 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:59:04,204 []
+2019-04-24 14:59:04,204 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:59:04,502 generate_BGP_graph: Subgraph component found. Size: 19333
+2019-04-24 14:59:04,510 generate_BGP_graph: Removing self loops.
+2019-04-24 14:59:04,754 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005300.net successfully added
+2019-04-24 14:59:07,279 add_month_to_df: Function called with parameters year=2005, month=4, normalize=True
+2019-04-24 14:59:07,279 get_kcores: Function called with parameters year=2005, month=4
+2019-04-24 14:59:07,279 get_merged_graph: Function called with parameters year=2005, month=4
+2019-04-24 14:59:07,279 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:59:07,279 generate_BGP_graph: Function called with parameters year=2005, month=4
+2019-04-24 14:59:07,279 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:59:08,668 ['http://data.caida.org/datasets/as-relationships/serial-1/20050401.as-rel.txt.bz2']
+2019-04-24 14:59:08,669 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20050401.as-rel.txt.bz2
+2019-04-24 14:59:11,059 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:59:11,487 []
+2019-04-24 14:59:11,487 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:59:11,791 generate_BGP_graph: Subgraph component found. Size: 19552
+2019-04-24 14:59:11,799 generate_BGP_graph: Removing self loops.
+2019-04-24 14:59:12,050 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005400.net successfully added
+2019-04-24 14:59:14,556 add_month_to_df: Function called with parameters year=2005, month=5, normalize=True
+2019-04-24 14:59:14,556 get_kcores: Function called with parameters year=2005, month=5
+2019-04-24 14:59:14,556 get_merged_graph: Function called with parameters year=2005, month=5
+2019-04-24 14:59:14,556 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:59:14,556 generate_BGP_graph: Function called with parameters year=2005, month=5
+2019-04-24 14:59:14,556 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:59:15,866 ['http://data.caida.org/datasets/as-relationships/serial-1/20050501.as-rel.txt.bz2']
+2019-04-24 14:59:15,866 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20050501.as-rel.txt.bz2
+2019-04-24 14:59:18,266 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:59:18,709 []
+2019-04-24 14:59:18,709 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:59:19,007 generate_BGP_graph: Subgraph component found. Size: 19876
+2019-04-24 14:59:19,014 generate_BGP_graph: Removing self loops.
+2019-04-24 14:59:19,261 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005500.net successfully added
+2019-04-24 14:59:21,795 add_month_to_df: Function called with parameters year=2005, month=6, normalize=True
+2019-04-24 14:59:21,796 get_kcores: Function called with parameters year=2005, month=6
+2019-04-24 14:59:21,796 get_merged_graph: Function called with parameters year=2005, month=6
+2019-04-24 14:59:21,796 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:59:21,796 generate_BGP_graph: Function called with parameters year=2005, month=6
+2019-04-24 14:59:21,796 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:59:23,143 ['http://data.caida.org/datasets/as-relationships/serial-1/20050601.as-rel.txt.bz2']
+2019-04-24 14:59:23,143 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20050601.as-rel.txt.bz2
+2019-04-24 14:59:26,324 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:59:26,765 []
+2019-04-24 14:59:26,765 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:59:27,069 generate_BGP_graph: Subgraph component found. Size: 20106
+2019-04-24 14:59:27,076 generate_BGP_graph: Removing self loops.
+2019-04-24 14:59:27,324 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005600.net successfully added
+2019-04-24 14:59:29,907 add_month_to_df: Function called with parameters year=2005, month=7, normalize=True
+2019-04-24 14:59:29,907 get_kcores: Function called with parameters year=2005, month=7
+2019-04-24 14:59:29,907 get_merged_graph: Function called with parameters year=2005, month=7
+2019-04-24 14:59:29,907 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:59:29,907 generate_BGP_graph: Function called with parameters year=2005, month=7
+2019-04-24 14:59:29,907 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:59:31,213 ['http://data.caida.org/datasets/as-relationships/serial-1/20050701.as-rel.txt.bz2']
+2019-04-24 14:59:31,213 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20050701.as-rel.txt.bz2
+2019-04-24 14:59:33,793 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:59:34,217 []
+2019-04-24 14:59:34,217 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:59:34,529 generate_BGP_graph: Subgraph component found. Size: 20250
+2019-04-24 14:59:34,537 generate_BGP_graph: Removing self loops.
+2019-04-24 14:59:34,790 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005700.net successfully added
+2019-04-24 14:59:37,387 add_month_to_df: Function called with parameters year=2005, month=8, normalize=True
+2019-04-24 14:59:37,387 get_kcores: Function called with parameters year=2005, month=8
+2019-04-24 14:59:37,387 get_merged_graph: Function called with parameters year=2005, month=8
+2019-04-24 14:59:37,387 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:59:37,387 generate_BGP_graph: Function called with parameters year=2005, month=8
+2019-04-24 14:59:37,387 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:59:38,730 ['http://data.caida.org/datasets/as-relationships/serial-1/20050801.as-rel.txt.bz2']
+2019-04-24 14:59:38,730 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20050801.as-rel.txt.bz2
+2019-04-24 14:59:41,346 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:59:41,803 []
+2019-04-24 14:59:41,803 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:59:42,123 generate_BGP_graph: Subgraph component found. Size: 20490
+2019-04-24 14:59:42,132 generate_BGP_graph: Removing self loops.
+2019-04-24 14:59:42,389 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005800.net successfully added
+2019-04-24 14:59:45,070 add_month_to_df: Function called with parameters year=2005, month=9, normalize=True
+2019-04-24 14:59:45,070 get_kcores: Function called with parameters year=2005, month=9
+2019-04-24 14:59:45,070 get_merged_graph: Function called with parameters year=2005, month=9
+2019-04-24 14:59:45,070 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:59:45,070 generate_BGP_graph: Function called with parameters year=2005, month=9
+2019-04-24 14:59:45,070 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:59:46,455 ['http://data.caida.org/datasets/as-relationships/serial-1/20050901.as-rel.txt.bz2']
+2019-04-24 14:59:46,455 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20050901.as-rel.txt.bz2
+2019-04-24 14:59:49,009 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:59:49,429 []
+2019-04-24 14:59:49,429 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:59:49,746 generate_BGP_graph: Subgraph component found. Size: 20641
+2019-04-24 14:59:49,754 generate_BGP_graph: Removing self loops.
+2019-04-24 14:59:50,056 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005900.net successfully added
+2019-04-24 14:59:52,694 add_month_to_df: Function called with parameters year=2005, month=10, normalize=True
+2019-04-24 14:59:52,694 get_kcores: Function called with parameters year=2005, month=10
+2019-04-24 14:59:52,694 get_merged_graph: Function called with parameters year=2005, month=10
+2019-04-24 14:59:52,694 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:59:52,694 generate_BGP_graph: Function called with parameters year=2005, month=10
+2019-04-24 14:59:52,694 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:59:54,026 ['http://data.caida.org/datasets/as-relationships/serial-1/20051001.as-rel.txt.bz2']
+2019-04-24 14:59:54,026 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20051001.as-rel.txt.bz2
+2019-04-24 14:59:56,732 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:59:57,184 []
+2019-04-24 14:59:57,184 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:59:57,508 generate_BGP_graph: Subgraph component found. Size: 20900
+2019-04-24 14:59:57,516 generate_BGP_graph: Removing self loops.
+2019-04-24 14:59:57,829 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20051000.net successfully added
+2019-04-24 15:00:00,447 add_month_to_df: Function called with parameters year=2005, month=11, normalize=True
+2019-04-24 15:00:00,447 get_kcores: Function called with parameters year=2005, month=11
+2019-04-24 15:00:00,447 get_merged_graph: Function called with parameters year=2005, month=11
+2019-04-24 15:00:00,447 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:00:00,447 generate_BGP_graph: Function called with parameters year=2005, month=11
+2019-04-24 15:00:00,447 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:00:01,757 ['http://data.caida.org/datasets/as-relationships/serial-1/20051101.as-rel.txt.bz2']
+2019-04-24 15:00:01,757 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20051101.as-rel.txt.bz2
+2019-04-24 15:00:09,330 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:00:09,772 []
+2019-04-24 15:00:09,772 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:00:10,118 generate_BGP_graph: Subgraph component found. Size: 21129
+2019-04-24 15:00:10,126 generate_BGP_graph: Removing self loops.
+2019-04-24 15:00:10,416 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20051100.net successfully added
+2019-04-24 15:00:13,099 add_month_to_df: Function called with parameters year=2005, month=12, normalize=True
+2019-04-24 15:00:13,099 get_kcores: Function called with parameters year=2005, month=12
+2019-04-24 15:00:13,099 get_merged_graph: Function called with parameters year=2005, month=12
+2019-04-24 15:00:13,099 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:00:13,099 generate_BGP_graph: Function called with parameters year=2005, month=12
+2019-04-24 15:00:13,099 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:00:14,519 ['http://data.caida.org/datasets/as-relationships/serial-1/20051201.as-rel.txt.bz2']
+2019-04-24 15:00:14,519 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20051201.as-rel.txt.bz2
+2019-04-24 15:00:17,259 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:00:17,688 []
+2019-04-24 15:00:17,688 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:00:18,007 generate_BGP_graph: Subgraph component found. Size: 21298
+2019-04-24 15:00:18,014 generate_BGP_graph: Removing self loops.
+2019-04-24 15:00:18,280 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20051200.net successfully added
+2019-04-24 15:00:21,072 get_year_kcores: Function called with parameters year=2006, from_month=1, to_month=12, normalize=True
+2019-04-24 15:00:21,072 add_month_to_df: Function called with parameters year=2006, month=1, normalize=True
+2019-04-24 15:00:21,072 get_kcores: Function called with parameters year=2006, month=1
+2019-04-24 15:00:21,072 get_merged_graph: Function called with parameters year=2006, month=1
+2019-04-24 15:00:21,072 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:00:21,072 generate_BGP_graph: Function called with parameters year=2006, month=1
+2019-04-24 15:00:21,072 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:00:22,408 ['http://data.caida.org/datasets/as-relationships/serial-1/20060101.as-rel.txt.bz2']
+2019-04-24 15:00:22,408 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20060101.as-rel.txt.bz2
+2019-04-24 15:00:25,191 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:00:25,603 []
+2019-04-24 15:00:25,603 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:00:25,936 generate_BGP_graph: Subgraph component found. Size: 21492
+2019-04-24 15:00:25,945 generate_BGP_graph: Removing self loops.
+2019-04-24 15:00:26,263 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006100.net successfully added
+2019-04-24 15:00:29,011 add_month_to_df: Function called with parameters year=2006, month=2, normalize=True
+2019-04-24 15:00:29,011 get_kcores: Function called with parameters year=2006, month=2
+2019-04-24 15:00:29,011 get_merged_graph: Function called with parameters year=2006, month=2
+2019-04-24 15:00:29,012 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:00:29,012 generate_BGP_graph: Function called with parameters year=2006, month=2
+2019-04-24 15:00:29,012 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:00:30,293 ['http://data.caida.org/datasets/as-relationships/serial-1/20060201.as-rel.txt.bz2']
+2019-04-24 15:00:30,293 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20060201.as-rel.txt.bz2
+2019-04-24 15:00:32,967 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:00:33,383 []
+2019-04-24 15:00:33,383 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:00:33,729 generate_BGP_graph: Subgraph component found. Size: 21701
+2019-04-24 15:00:33,738 generate_BGP_graph: Removing self loops.
+2019-04-24 15:00:34,023 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006200.net successfully added
+2019-04-24 15:00:36,801 add_month_to_df: Function called with parameters year=2006, month=3, normalize=True
+2019-04-24 15:00:36,801 get_kcores: Function called with parameters year=2006, month=3
+2019-04-24 15:00:36,801 get_merged_graph: Function called with parameters year=2006, month=3
+2019-04-24 15:00:36,802 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:00:36,802 generate_BGP_graph: Function called with parameters year=2006, month=3
+2019-04-24 15:00:36,802 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:00:38,117 ['http://data.caida.org/datasets/as-relationships/serial-1/20060301.as-rel.txt.bz2']
+2019-04-24 15:00:38,117 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20060301.as-rel.txt.bz2
+2019-04-24 15:00:40,837 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:00:41,241 []
+2019-04-24 15:00:41,241 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:00:41,632 generate_BGP_graph: Subgraph component found. Size: 21938
+2019-04-24 15:00:41,642 generate_BGP_graph: Removing self loops.
+2019-04-24 15:00:41,947 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006300.net successfully added
+2019-04-24 15:00:44,770 add_month_to_df: Function called with parameters year=2006, month=4, normalize=True
+2019-04-24 15:00:44,770 get_kcores: Function called with parameters year=2006, month=4
+2019-04-24 15:00:44,770 get_merged_graph: Function called with parameters year=2006, month=4
+2019-04-24 15:00:44,771 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:00:44,771 generate_BGP_graph: Function called with parameters year=2006, month=4
+2019-04-24 15:00:44,771 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:00:46,095 ['http://data.caida.org/datasets/as-relationships/serial-1/20060401.as-rel.txt.bz2']
+2019-04-24 15:00:46,095 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20060401.as-rel.txt.bz2
+2019-04-24 15:00:48,717 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:00:49,123 []
+2019-04-24 15:00:49,123 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:00:49,472 generate_BGP_graph: Subgraph component found. Size: 22125
+2019-04-24 15:00:49,481 generate_BGP_graph: Removing self loops.
+2019-04-24 15:00:49,803 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006400.net successfully added
+2019-04-24 15:00:52,635 add_month_to_df: Function called with parameters year=2006, month=5, normalize=True
+2019-04-24 15:00:52,635 get_kcores: Function called with parameters year=2006, month=5
+2019-04-24 15:00:52,635 get_merged_graph: Function called with parameters year=2006, month=5
+2019-04-24 15:00:52,635 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:00:52,635 generate_BGP_graph: Function called with parameters year=2006, month=5
+2019-04-24 15:00:52,635 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:00:53,969 ['http://data.caida.org/datasets/as-relationships/serial-1/20060501.as-rel.txt.bz2']
+2019-04-24 15:00:53,969 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20060501.as-rel.txt.bz2
+2019-04-24 15:00:56,779 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:00:57,186 []
+2019-04-24 15:00:57,186 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:00:57,549 generate_BGP_graph: Subgraph component found. Size: 22354
+2019-04-24 15:00:57,558 generate_BGP_graph: Removing self loops.
+2019-04-24 15:00:57,901 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006500.net successfully added
+2019-04-24 15:01:00,769 add_month_to_df: Function called with parameters year=2006, month=6, normalize=True
+2019-04-24 15:01:00,769 get_kcores: Function called with parameters year=2006, month=6
+2019-04-24 15:01:00,769 get_merged_graph: Function called with parameters year=2006, month=6
+2019-04-24 15:01:00,769 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:01:00,769 generate_BGP_graph: Function called with parameters year=2006, month=6
+2019-04-24 15:01:00,769 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:01:01,978 ['http://data.caida.org/datasets/as-relationships/serial-1/20060601.as-rel.txt.bz2']
+2019-04-24 15:01:01,978 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20060601.as-rel.txt.bz2
+2019-04-24 15:01:04,555 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:01:05,006 []
+2019-04-24 15:01:05,006 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:01:05,373 generate_BGP_graph: Subgraph component found. Size: 22641
+2019-04-24 15:01:05,382 generate_BGP_graph: Removing self loops.
+2019-04-24 15:01:05,722 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006600.net successfully added
+2019-04-24 15:01:08,638 add_month_to_df: Function called with parameters year=2006, month=7, normalize=True
+2019-04-24 15:01:08,638 get_kcores: Function called with parameters year=2006, month=7
+2019-04-24 15:01:08,638 get_merged_graph: Function called with parameters year=2006, month=7
+2019-04-24 15:01:08,638 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:01:08,638 generate_BGP_graph: Function called with parameters year=2006, month=7
+2019-04-24 15:01:08,638 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:01:09,971 ['http://data.caida.org/datasets/as-relationships/serial-1/20060701.as-rel.txt.bz2']
+2019-04-24 15:01:09,971 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20060701.as-rel.txt.bz2
+2019-04-24 15:01:12,639 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:01:13,056 []
+2019-04-24 15:01:13,056 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:01:13,424 generate_BGP_graph: Subgraph component found. Size: 22851
+2019-04-24 15:01:13,433 generate_BGP_graph: Removing self loops.
+2019-04-24 15:01:13,762 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006700.net successfully added
+2019-04-24 15:01:16,677 add_month_to_df: Function called with parameters year=2006, month=8, normalize=True
+2019-04-24 15:01:16,677 get_kcores: Function called with parameters year=2006, month=8
+2019-04-24 15:01:16,677 get_merged_graph: Function called with parameters year=2006, month=8
+2019-04-24 15:01:16,677 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:01:16,677 generate_BGP_graph: Function called with parameters year=2006, month=8
+2019-04-24 15:01:16,677 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:01:18,129 ['http://data.caida.org/datasets/as-relationships/serial-1/20060801.as-rel.txt.bz2']
+2019-04-24 15:01:18,129 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20060801.as-rel.txt.bz2
+2019-04-24 15:01:20,865 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:01:21,331 []
+2019-04-24 15:01:21,331 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:01:21,711 generate_BGP_graph: Subgraph component found. Size: 23102
+2019-04-24 15:01:21,721 generate_BGP_graph: Removing self loops.
+2019-04-24 15:01:22,041 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006800.net successfully added
+2019-04-24 15:01:24,983 add_month_to_df: Function called with parameters year=2006, month=9, normalize=True
+2019-04-24 15:01:24,983 get_kcores: Function called with parameters year=2006, month=9
+2019-04-24 15:01:24,983 get_merged_graph: Function called with parameters year=2006, month=9
+2019-04-24 15:01:24,983 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:01:24,983 generate_BGP_graph: Function called with parameters year=2006, month=9
+2019-04-24 15:01:24,983 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:01:26,259 ['http://data.caida.org/datasets/as-relationships/serial-1/20060901.as-rel.txt.bz2']
+2019-04-24 15:01:26,259 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20060901.as-rel.txt.bz2
+2019-04-24 15:01:29,115 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:01:29,558 []
+2019-04-24 15:01:29,559 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:01:29,935 generate_BGP_graph: Subgraph component found. Size: 23296
+2019-04-24 15:01:29,945 generate_BGP_graph: Removing self loops.
+2019-04-24 15:01:30,297 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006900.net successfully added
+2019-04-24 15:01:33,288 add_month_to_df: Function called with parameters year=2006, month=10, normalize=True
+2019-04-24 15:01:33,289 get_kcores: Function called with parameters year=2006, month=10
+2019-04-24 15:01:33,289 get_merged_graph: Function called with parameters year=2006, month=10
+2019-04-24 15:01:33,289 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:01:33,289 generate_BGP_graph: Function called with parameters year=2006, month=10
+2019-04-24 15:01:33,289 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:01:34,586 ['http://data.caida.org/datasets/as-relationships/serial-1/20061001.as-rel.txt.bz2']
+2019-04-24 15:01:34,586 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20061001.as-rel.txt.bz2
+2019-04-24 15:01:37,491 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:01:37,956 []
+2019-04-24 15:01:37,956 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:01:38,340 generate_BGP_graph: Subgraph component found. Size: 23532
+2019-04-24 15:01:38,349 generate_BGP_graph: Removing self loops.
+2019-04-24 15:01:38,687 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20061000.net successfully added
+2019-04-24 15:01:41,704 add_month_to_df: Function called with parameters year=2006, month=11, normalize=True
+2019-04-24 15:01:41,704 get_kcores: Function called with parameters year=2006, month=11
+2019-04-24 15:01:41,704 get_merged_graph: Function called with parameters year=2006, month=11
+2019-04-24 15:01:41,704 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:01:41,704 generate_BGP_graph: Function called with parameters year=2006, month=11
+2019-04-24 15:01:41,704 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:01:43,051 ['http://data.caida.org/datasets/as-relationships/serial-1/20061101.as-rel.txt.bz2']
+2019-04-24 15:01:43,051 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20061101.as-rel.txt.bz2
+2019-04-24 15:01:45,973 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:01:46,481 []
+2019-04-24 15:01:46,481 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:01:46,864 generate_BGP_graph: Subgraph component found. Size: 23843
+2019-04-24 15:01:46,875 generate_BGP_graph: Removing self loops.
+2019-04-24 15:01:47,235 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20061100.net successfully added
+2019-04-24 15:01:50,274 add_month_to_df: Function called with parameters year=2006, month=12, normalize=True
+2019-04-24 15:01:50,274 get_kcores: Function called with parameters year=2006, month=12
+2019-04-24 15:01:50,274 get_merged_graph: Function called with parameters year=2006, month=12
+2019-04-24 15:01:50,274 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:01:50,274 generate_BGP_graph: Function called with parameters year=2006, month=12
+2019-04-24 15:01:50,274 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:01:51,633 ['http://data.caida.org/datasets/as-relationships/serial-1/20061201.as-rel.txt.bz2']
+2019-04-24 15:01:51,633 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20061201.as-rel.txt.bz2
+2019-04-24 15:01:54,637 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:01:55,048 []
+2019-04-24 15:01:55,048 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:01:55,497 generate_BGP_graph: Subgraph component found. Size: 24128
+2019-04-24 15:01:55,509 generate_BGP_graph: Removing self loops.
+2019-04-24 15:01:55,853 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20061200.net successfully added
+2019-04-24 15:01:58,900 get_year_kcores: Function called with parameters year=2007, from_month=1, to_month=12, normalize=True
+2019-04-24 15:01:58,900 add_month_to_df: Function called with parameters year=2007, month=1, normalize=True
+2019-04-24 15:01:58,900 get_kcores: Function called with parameters year=2007, month=1
+2019-04-24 15:01:58,900 get_merged_graph: Function called with parameters year=2007, month=1
+2019-04-24 15:01:58,900 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:01:58,900 generate_BGP_graph: Function called with parameters year=2007, month=1
+2019-04-24 15:01:58,900 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:02:00,196 ['http://data.caida.org/datasets/as-relationships/serial-1/20070101.as-rel.txt.bz2']
+2019-04-24 15:02:00,196 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20070101.as-rel.txt.bz2
+2019-04-24 15:02:03,209 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:02:03,660 []
+2019-04-24 15:02:03,660 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:02:04,053 generate_BGP_graph: Subgraph component found. Size: 24336
+2019-04-24 15:02:04,064 generate_BGP_graph: Removing self loops.
+2019-04-24 15:02:04,434 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007100.net successfully added
+2019-04-24 15:02:07,634 add_month_to_df: Function called with parameters year=2007, month=2, normalize=True
+2019-04-24 15:02:07,634 get_kcores: Function called with parameters year=2007, month=2
+2019-04-24 15:02:07,634 get_merged_graph: Function called with parameters year=2007, month=2
+2019-04-24 15:02:07,634 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:02:07,635 generate_BGP_graph: Function called with parameters year=2007, month=2
+2019-04-24 15:02:07,635 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:02:08,906 ['http://data.caida.org/datasets/as-relationships/serial-1/20070201.as-rel.txt.bz2']
+2019-04-24 15:02:08,906 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20070201.as-rel.txt.bz2
+2019-04-24 15:02:14,649 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:02:15,089 []
+2019-04-24 15:02:15,089 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:02:15,492 generate_BGP_graph: Subgraph component found. Size: 24564
+2019-04-24 15:02:15,503 generate_BGP_graph: Removing self loops.
+2019-04-24 15:02:15,871 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007200.net successfully added
+2019-04-24 15:02:18,980 add_month_to_df: Function called with parameters year=2007, month=3, normalize=True
+2019-04-24 15:02:18,980 get_kcores: Function called with parameters year=2007, month=3
+2019-04-24 15:02:18,980 get_merged_graph: Function called with parameters year=2007, month=3
+2019-04-24 15:02:18,980 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:02:18,980 generate_BGP_graph: Function called with parameters year=2007, month=3
+2019-04-24 15:02:18,980 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:02:20,443 ['http://data.caida.org/datasets/as-relationships/serial-1/20070301.as-rel.txt.bz2']
+2019-04-24 15:02:20,443 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20070301.as-rel.txt.bz2
+2019-04-24 15:02:23,336 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:02:23,782 []
+2019-04-24 15:02:23,782 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:02:24,191 generate_BGP_graph: Subgraph component found. Size: 24825
+2019-04-24 15:02:24,200 generate_BGP_graph: Removing self loops.
+2019-04-24 15:02:24,566 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007300.net successfully added
+2019-04-24 15:02:27,713 add_month_to_df: Function called with parameters year=2007, month=4, normalize=True
+2019-04-24 15:02:27,714 get_kcores: Function called with parameters year=2007, month=4
+2019-04-24 15:02:27,714 get_merged_graph: Function called with parameters year=2007, month=4
+2019-04-24 15:02:27,714 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:02:27,714 generate_BGP_graph: Function called with parameters year=2007, month=4
+2019-04-24 15:02:27,714 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:02:29,039 ['http://data.caida.org/datasets/as-relationships/serial-1/20070401.as-rel.txt.bz2']
+2019-04-24 15:02:29,039 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20070401.as-rel.txt.bz2
+2019-04-24 15:02:32,136 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:02:32,600 []
+2019-04-24 15:02:32,600 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:02:33,023 generate_BGP_graph: Subgraph component found. Size: 25133
+2019-04-24 15:02:33,033 generate_BGP_graph: Removing self loops.
+2019-04-24 15:02:33,390 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007400.net successfully added
+2019-04-24 15:02:36,579 add_month_to_df: Function called with parameters year=2007, month=5, normalize=True
+2019-04-24 15:02:36,579 get_kcores: Function called with parameters year=2007, month=5
+2019-04-24 15:02:36,579 get_merged_graph: Function called with parameters year=2007, month=5
+2019-04-24 15:02:36,579 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:02:36,579 generate_BGP_graph: Function called with parameters year=2007, month=5
+2019-04-24 15:02:36,579 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:02:37,938 ['http://data.caida.org/datasets/as-relationships/serial-1/20070501.as-rel.txt.bz2']
+2019-04-24 15:02:37,938 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20070501.as-rel.txt.bz2
+2019-04-24 15:02:41,001 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:02:41,451 []
+2019-04-24 15:02:41,451 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:02:41,876 generate_BGP_graph: Subgraph component found. Size: 25409
+2019-04-24 15:02:41,887 generate_BGP_graph: Removing self loops.
+2019-04-24 15:02:42,269 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007500.net successfully added
+2019-04-24 15:02:45,496 add_month_to_df: Function called with parameters year=2007, month=6, normalize=True
+2019-04-24 15:02:45,496 get_kcores: Function called with parameters year=2007, month=6
+2019-04-24 15:02:45,496 get_merged_graph: Function called with parameters year=2007, month=6
+2019-04-24 15:02:45,496 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:02:45,496 generate_BGP_graph: Function called with parameters year=2007, month=6
+2019-04-24 15:02:45,497 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:02:46,846 ['http://data.caida.org/datasets/as-relationships/serial-1/20070601.as-rel.txt.bz2']
+2019-04-24 15:02:46,846 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20070601.as-rel.txt.bz2
+2019-04-24 15:02:49,891 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:02:50,307 []
+2019-04-24 15:02:50,307 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:02:50,794 generate_BGP_graph: Subgraph component found. Size: 25693
+2019-04-24 15:02:50,805 generate_BGP_graph: Removing self loops.
+2019-04-24 15:02:51,162 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007600.net successfully added
+2019-04-24 15:02:54,452 add_month_to_df: Function called with parameters year=2007, month=7, normalize=True
+2019-04-24 15:02:54,452 get_kcores: Function called with parameters year=2007, month=7
+2019-04-24 15:02:54,452 get_merged_graph: Function called with parameters year=2007, month=7
+2019-04-24 15:02:54,452 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:02:54,452 generate_BGP_graph: Function called with parameters year=2007, month=7
+2019-04-24 15:02:54,452 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:02:55,779 ['http://data.caida.org/datasets/as-relationships/serial-1/20070701.as-rel.txt.bz2']
+2019-04-24 15:02:55,779 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20070701.as-rel.txt.bz2
+2019-04-24 15:02:58,990 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:02:59,432 []
+2019-04-24 15:02:59,432 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:02:59,898 generate_BGP_graph: Subgraph component found. Size: 25933
+2019-04-24 15:02:59,898 generate_BGP_graph: Subgraph component found. Size: 2
+2019-04-24 15:02:59,908 generate_BGP_graph: Removing self loops.
+2019-04-24 15:03:00,259 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007700.net successfully added
+2019-04-24 15:03:03,551 add_month_to_df: Function called with parameters year=2007, month=8, normalize=True
+2019-04-24 15:03:03,551 get_kcores: Function called with parameters year=2007, month=8
+2019-04-24 15:03:03,551 get_merged_graph: Function called with parameters year=2007, month=8
+2019-04-24 15:03:03,552 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:03:03,552 generate_BGP_graph: Function called with parameters year=2007, month=8
+2019-04-24 15:03:03,552 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:03:04,923 ['http://data.caida.org/datasets/as-relationships/serial-1/20070801.as-rel.txt.bz2']
+2019-04-24 15:03:04,923 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20070801.as-rel.txt.bz2
+2019-04-24 15:03:08,137 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:03:08,540 []
+2019-04-24 15:03:08,540 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:03:09,009 generate_BGP_graph: Subgraph component found. Size: 26184
+2019-04-24 15:03:09,009 generate_BGP_graph: Subgraph component found. Size: 2
+2019-04-24 15:03:09,020 generate_BGP_graph: Removing self loops.
+2019-04-24 15:03:09,365 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007800.net successfully added
+2019-04-24 15:03:12,699 add_month_to_df: Function called with parameters year=2007, month=9, normalize=True
+2019-04-24 15:03:12,700 get_kcores: Function called with parameters year=2007, month=9
+2019-04-24 15:03:12,700 get_merged_graph: Function called with parameters year=2007, month=9
+2019-04-24 15:03:12,700 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 15:03:12,700 generate_BGP_graph: Function called with parameters year=2007, month=9
+2019-04-24 15:03:12,700 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 15:03:13,974 ['http://data.caida.org/datasets/as-relationships/serial-1/20070901.as-rel.txt.bz2']
+2019-04-24 15:03:13,974 generate_BGP_graph: Downloading file from: http://data.caida.org/datasets/as-relationships/serial-1/20070901.as-rel.txt.bz2
+2019-04-24 15:03:17,067 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 15:03:17,499 []
+2019-04-24 15:03:17,499 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 15:03:17,972 generate_BGP_graph: Subgraph component found. Size: 26387
+2019-04-24 15:03:17,972 generate_BGP_graph: Subgraph component found. Size: 2
+2019-04-24 15:03:17,983 generate_BGP_graph: Removing self loops.
+2019-04-24 15:03:18,343 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007900.net successfully added
