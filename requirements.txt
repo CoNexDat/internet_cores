@@ -1,0 +1,7 @@
+pandas=0.23.1
+networkx=1.11
+numpy=1.15.2
+beautifulsoup4=4.0.6
+urllib3=1.23
+config=0.4.0
+
