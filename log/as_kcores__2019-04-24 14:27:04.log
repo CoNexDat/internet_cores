@@ -1,0 +1,549 @@
+2019-04-24 14:27:04,770 Debug: Initializing...
+2019-04-24 14:27:04,770 Info: Initializing...
+2019-04-24 14:27:04,771 Warning: Initializing...
+2019-04-24 14:27:04,771 Error: Initializing...
+2019-04-24 14:27:04,771 Critical: Initializing...
+2019-04-24 14:27:04,771 get_year_kcores: Function called with parameters year=1998, from_month=1, to_month=12, normalize=True
+2019-04-24 14:27:04,771 add_month_to_df: Function called with parameters year=1998, month=1, normalize=True
+2019-04-24 14:27:04,771 get_kcores: Function called with parameters year=1998, month=1
+2019-04-24 14:27:04,771 get_merged_graph: Function called with parameters year=1998, month=1
+2019-04-24 14:27:04,807 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998100.net successfully added
+2019-04-24 14:27:04,910 add_month_to_df: Function called with parameters year=1998, month=2, normalize=True
+2019-04-24 14:27:04,911 get_kcores: Function called with parameters year=1998, month=2
+2019-04-24 14:27:04,911 get_merged_graph: Function called with parameters year=1998, month=2
+2019-04-24 14:27:04,930 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998200.net successfully added
+2019-04-24 14:27:05,100 add_month_to_df: Function called with parameters year=1998, month=3, normalize=True
+2019-04-24 14:27:05,100 get_kcores: Function called with parameters year=1998, month=3
+2019-04-24 14:27:05,100 get_merged_graph: Function called with parameters year=1998, month=3
+2019-04-24 14:27:05,120 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998300.net successfully added
+2019-04-24 14:27:05,298 add_month_to_df: Function called with parameters year=1998, month=4, normalize=True
+2019-04-24 14:27:05,298 get_kcores: Function called with parameters year=1998, month=4
+2019-04-24 14:27:05,298 get_merged_graph: Function called with parameters year=1998, month=4
+2019-04-24 14:27:05,320 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998400.net successfully added
+2019-04-24 14:27:05,537 add_month_to_df: Function called with parameters year=1998, month=5, normalize=True
+2019-04-24 14:27:05,537 get_kcores: Function called with parameters year=1998, month=5
+2019-04-24 14:27:05,537 get_merged_graph: Function called with parameters year=1998, month=5
+2019-04-24 14:27:05,559 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998500.net successfully added
+2019-04-24 14:27:05,792 add_month_to_df: Function called with parameters year=1998, month=6, normalize=True
+2019-04-24 14:27:05,792 get_kcores: Function called with parameters year=1998, month=6
+2019-04-24 14:27:05,792 get_merged_graph: Function called with parameters year=1998, month=6
+2019-04-24 14:27:05,815 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998600.net successfully added
+2019-04-24 14:27:06,054 add_month_to_df: Function called with parameters year=1998, month=7, normalize=True
+2019-04-24 14:27:06,054 get_kcores: Function called with parameters year=1998, month=7
+2019-04-24 14:27:06,054 get_merged_graph: Function called with parameters year=1998, month=7
+2019-04-24 14:27:06,094 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998700.net successfully added
+2019-04-24 14:27:06,334 add_month_to_df: Function called with parameters year=1998, month=8, normalize=True
+2019-04-24 14:27:06,334 get_kcores: Function called with parameters year=1998, month=8
+2019-04-24 14:27:06,334 get_merged_graph: Function called with parameters year=1998, month=8
+2019-04-24 14:27:06,358 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998800.net successfully added
+2019-04-24 14:27:06,620 add_month_to_df: Function called with parameters year=1998, month=9, normalize=True
+2019-04-24 14:27:06,620 get_kcores: Function called with parameters year=1998, month=9
+2019-04-24 14:27:06,620 get_merged_graph: Function called with parameters year=1998, month=9
+2019-04-24 14:27:06,663 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1998900.net successfully added
+2019-04-24 14:27:06,962 add_month_to_df: Function called with parameters year=1998, month=10, normalize=True
+2019-04-24 14:27:06,962 get_kcores: Function called with parameters year=1998, month=10
+2019-04-24 14:27:06,962 get_merged_graph: Function called with parameters year=1998, month=10
+2019-04-24 14:27:06,988 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/19981000.net successfully added
+2019-04-24 14:27:07,294 add_month_to_df: Function called with parameters year=1998, month=11, normalize=True
+2019-04-24 14:27:07,294 get_kcores: Function called with parameters year=1998, month=11
+2019-04-24 14:27:07,294 get_merged_graph: Function called with parameters year=1998, month=11
+2019-04-24 14:27:07,320 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/19981100.net successfully added
+2019-04-24 14:27:07,658 add_month_to_df: Function called with parameters year=1998, month=12, normalize=True
+2019-04-24 14:27:07,658 get_kcores: Function called with parameters year=1998, month=12
+2019-04-24 14:27:07,658 get_merged_graph: Function called with parameters year=1998, month=12
+2019-04-24 14:27:07,686 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/19981200.net successfully added
+2019-04-24 14:27:08,012 get_year_kcores: Function called with parameters year=1999, from_month=1, to_month=12, normalize=True
+2019-04-24 14:27:08,012 add_month_to_df: Function called with parameters year=1999, month=1, normalize=True
+2019-04-24 14:27:08,012 get_kcores: Function called with parameters year=1999, month=1
+2019-04-24 14:27:08,012 get_merged_graph: Function called with parameters year=1999, month=1
+2019-04-24 14:27:08,012 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:27:08,012 generate_BGP_graph: Function called with parameters year=1999, month=1
+2019-04-24 14:27:08,012 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:27:09,337 []
+2019-04-24 14:27:09,337 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:27:09,771 []
+2019-04-24 14:27:09,771 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:27:09,771 get_merged_graph: No info available for bgp. Giving up.
+2019-04-24 14:27:09,771 add_month_to_df: Function called with parameters year=1999, month=2, normalize=True
+2019-04-24 14:27:09,771 get_kcores: Function called with parameters year=1999, month=2
+2019-04-24 14:27:09,771 get_merged_graph: Function called with parameters year=1999, month=2
+2019-04-24 14:27:09,824 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1999200.net successfully added
+2019-04-24 14:27:10,181 add_month_to_df: Function called with parameters year=1999, month=3, normalize=True
+2019-04-24 14:27:10,181 get_kcores: Function called with parameters year=1999, month=3
+2019-04-24 14:27:10,181 get_merged_graph: Function called with parameters year=1999, month=3
+2019-04-24 14:27:10,211 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1999300.net successfully added
+2019-04-24 14:27:10,574 add_month_to_df: Function called with parameters year=1999, month=4, normalize=True
+2019-04-24 14:27:10,574 get_kcores: Function called with parameters year=1999, month=4
+2019-04-24 14:27:10,574 get_merged_graph: Function called with parameters year=1999, month=4
+2019-04-24 14:27:10,623 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1999400.net successfully added
+2019-04-24 14:27:10,988 add_month_to_df: Function called with parameters year=1999, month=5, normalize=True
+2019-04-24 14:27:10,988 get_kcores: Function called with parameters year=1999, month=5
+2019-04-24 14:27:10,988 get_merged_graph: Function called with parameters year=1999, month=5
+2019-04-24 14:27:11,043 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1999500.net successfully added
+2019-04-24 14:27:11,450 add_month_to_df: Function called with parameters year=1999, month=6, normalize=True
+2019-04-24 14:27:11,450 get_kcores: Function called with parameters year=1999, month=6
+2019-04-24 14:27:11,450 get_merged_graph: Function called with parameters year=1999, month=6
+2019-04-24 14:27:11,484 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1999600.net successfully added
+2019-04-24 14:27:11,898 add_month_to_df: Function called with parameters year=1999, month=7, normalize=True
+2019-04-24 14:27:11,898 get_kcores: Function called with parameters year=1999, month=7
+2019-04-24 14:27:11,899 get_merged_graph: Function called with parameters year=1999, month=7
+2019-04-24 14:27:11,933 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1999700.net successfully added
+2019-04-24 14:27:12,363 add_month_to_df: Function called with parameters year=1999, month=8, normalize=True
+2019-04-24 14:27:12,363 get_kcores: Function called with parameters year=1999, month=8
+2019-04-24 14:27:12,363 get_merged_graph: Function called with parameters year=1999, month=8
+2019-04-24 14:27:12,420 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1999800.net successfully added
+2019-04-24 14:27:12,869 add_month_to_df: Function called with parameters year=1999, month=9, normalize=True
+2019-04-24 14:27:12,869 get_kcores: Function called with parameters year=1999, month=9
+2019-04-24 14:27:12,869 get_merged_graph: Function called with parameters year=1999, month=9
+2019-04-24 14:27:12,924 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/1999900.net successfully added
+2019-04-24 14:27:13,400 add_month_to_df: Function called with parameters year=1999, month=10, normalize=True
+2019-04-24 14:27:13,400 get_kcores: Function called with parameters year=1999, month=10
+2019-04-24 14:27:13,400 get_merged_graph: Function called with parameters year=1999, month=10
+2019-04-24 14:27:13,438 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/19991000.net successfully added
+2019-04-24 14:27:13,953 add_month_to_df: Function called with parameters year=1999, month=11, normalize=True
+2019-04-24 14:27:13,953 get_kcores: Function called with parameters year=1999, month=11
+2019-04-24 14:27:13,953 get_merged_graph: Function called with parameters year=1999, month=11
+2019-04-24 14:27:13,953 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:27:13,953 generate_BGP_graph: Function called with parameters year=1999, month=11
+2019-04-24 14:27:13,953 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:27:15,257 []
+2019-04-24 14:27:15,257 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:27:15,689 []
+2019-04-24 14:27:15,689 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:27:15,689 get_merged_graph: No info available for bgp. Giving up.
+2019-04-24 14:27:15,689 add_month_to_df: Function called with parameters year=1999, month=12, normalize=True
+2019-04-24 14:27:15,689 get_kcores: Function called with parameters year=1999, month=12
+2019-04-24 14:27:15,689 get_merged_graph: Function called with parameters year=1999, month=12
+2019-04-24 14:27:15,689 get_merged_graph: No info available for bgp. Trying to download
+2019-04-24 14:27:15,689 generate_BGP_graph: Function called with parameters year=1999, month=12
+2019-04-24 14:27:15,689 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-1/
+2019-04-24 14:27:16,957 []
+2019-04-24 14:27:16,957 generate_BGP_graph: Getting info from: http://data.caida.org/datasets/as-relationships/serial-2/
+2019-04-24 14:27:17,371 []
+2019-04-24 14:27:17,371 generate_BGP_graph: Removing non connected components of the graph.
+2019-04-24 14:27:17,371 get_merged_graph: No info available for bgp. Giving up.
+2019-04-24 14:27:17,371 get_year_kcores: Function called with parameters year=2000, from_month=1, to_month=12, normalize=True
+2019-04-24 14:27:17,371 add_month_to_df: Function called with parameters year=2000, month=1, normalize=True
+2019-04-24 14:27:17,371 get_kcores: Function called with parameters year=2000, month=1
+2019-04-24 14:27:17,371 get_merged_graph: Function called with parameters year=2000, month=1
+2019-04-24 14:27:17,416 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000100.net successfully added
+2019-04-24 14:27:18,027 add_month_to_df: Function called with parameters year=2000, month=2, normalize=True
+2019-04-24 14:27:18,027 get_kcores: Function called with parameters year=2000, month=2
+2019-04-24 14:27:18,027 get_merged_graph: Function called with parameters year=2000, month=2
+2019-04-24 14:27:18,073 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000200.net successfully added
+2019-04-24 14:27:18,664 add_month_to_df: Function called with parameters year=2000, month=3, normalize=True
+2019-04-24 14:27:18,665 get_kcores: Function called with parameters year=2000, month=3
+2019-04-24 14:27:18,665 get_merged_graph: Function called with parameters year=2000, month=3
+2019-04-24 14:27:18,713 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000300.net successfully added
+2019-04-24 14:27:19,326 add_month_to_df: Function called with parameters year=2000, month=4, normalize=True
+2019-04-24 14:27:19,326 get_kcores: Function called with parameters year=2000, month=4
+2019-04-24 14:27:19,326 get_merged_graph: Function called with parameters year=2000, month=4
+2019-04-24 14:27:19,377 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000400.net successfully added
+2019-04-24 14:27:20,038 add_month_to_df: Function called with parameters year=2000, month=5, normalize=True
+2019-04-24 14:27:20,038 get_kcores: Function called with parameters year=2000, month=5
+2019-04-24 14:27:20,038 get_merged_graph: Function called with parameters year=2000, month=5
+2019-04-24 14:27:20,093 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000500.net successfully added
+2019-04-24 14:27:20,759 add_month_to_df: Function called with parameters year=2000, month=6, normalize=True
+2019-04-24 14:27:20,759 get_kcores: Function called with parameters year=2000, month=6
+2019-04-24 14:27:20,759 get_merged_graph: Function called with parameters year=2000, month=6
+2019-04-24 14:27:20,838 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000600.net successfully added
+2019-04-24 14:27:21,512 add_month_to_df: Function called with parameters year=2000, month=7, normalize=True
+2019-04-24 14:27:21,512 get_kcores: Function called with parameters year=2000, month=7
+2019-04-24 14:27:21,513 get_merged_graph: Function called with parameters year=2000, month=7
+2019-04-24 14:27:21,591 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000700.net successfully added
+2019-04-24 14:27:22,306 add_month_to_df: Function called with parameters year=2000, month=8, normalize=True
+2019-04-24 14:27:22,306 get_kcores: Function called with parameters year=2000, month=8
+2019-04-24 14:27:22,306 get_merged_graph: Function called with parameters year=2000, month=8
+2019-04-24 14:27:22,385 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000800.net successfully added
+2019-04-24 14:27:23,137 add_month_to_df: Function called with parameters year=2000, month=9, normalize=True
+2019-04-24 14:27:23,137 get_kcores: Function called with parameters year=2000, month=9
+2019-04-24 14:27:23,137 get_merged_graph: Function called with parameters year=2000, month=9
+2019-04-24 14:27:23,214 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2000900.net successfully added
+2019-04-24 14:27:24,021 add_month_to_df: Function called with parameters year=2000, month=10, normalize=True
+2019-04-24 14:27:24,021 get_kcores: Function called with parameters year=2000, month=10
+2019-04-24 14:27:24,021 get_merged_graph: Function called with parameters year=2000, month=10
+2019-04-24 14:27:24,082 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20001000.net successfully added
+2019-04-24 14:27:24,901 add_month_to_df: Function called with parameters year=2000, month=11, normalize=True
+2019-04-24 14:27:24,901 get_kcores: Function called with parameters year=2000, month=11
+2019-04-24 14:27:24,901 get_merged_graph: Function called with parameters year=2000, month=11
+2019-04-24 14:27:24,983 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20001100.net successfully added
+2019-04-24 14:27:25,852 add_month_to_df: Function called with parameters year=2000, month=12, normalize=True
+2019-04-24 14:27:25,852 get_kcores: Function called with parameters year=2000, month=12
+2019-04-24 14:27:25,852 get_merged_graph: Function called with parameters year=2000, month=12
+2019-04-24 14:27:25,939 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20001200.net successfully added
+2019-04-24 14:27:26,850 get_year_kcores: Function called with parameters year=2001, from_month=1, to_month=12, normalize=True
+2019-04-24 14:27:26,850 add_month_to_df: Function called with parameters year=2001, month=1, normalize=True
+2019-04-24 14:27:26,850 get_kcores: Function called with parameters year=2001, month=1
+2019-04-24 14:27:26,851 get_merged_graph: Function called with parameters year=2001, month=1
+2019-04-24 14:27:26,941 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001100.net successfully added
+2019-04-24 14:27:27,853 add_month_to_df: Function called with parameters year=2001, month=2, normalize=True
+2019-04-24 14:27:27,853 get_kcores: Function called with parameters year=2001, month=2
+2019-04-24 14:27:27,853 get_merged_graph: Function called with parameters year=2001, month=2
+2019-04-24 14:27:27,943 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001200.net successfully added
+2019-04-24 14:27:28,926 add_month_to_df: Function called with parameters year=2001, month=3, normalize=True
+2019-04-24 14:27:28,926 get_kcores: Function called with parameters year=2001, month=3
+2019-04-24 14:27:28,926 get_merged_graph: Function called with parameters year=2001, month=3
+2019-04-24 14:27:29,023 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001300.net successfully added
+2019-04-24 14:27:30,021 add_month_to_df: Function called with parameters year=2001, month=4, normalize=True
+2019-04-24 14:27:30,021 get_kcores: Function called with parameters year=2001, month=4
+2019-04-24 14:27:30,021 get_merged_graph: Function called with parameters year=2001, month=4
+2019-04-24 14:27:30,112 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001400.net successfully added
+2019-04-24 14:27:31,150 add_month_to_df: Function called with parameters year=2001, month=5, normalize=True
+2019-04-24 14:27:31,150 get_kcores: Function called with parameters year=2001, month=5
+2019-04-24 14:27:31,150 get_merged_graph: Function called with parameters year=2001, month=5
+2019-04-24 14:27:31,250 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001500.net successfully added
+2019-04-24 14:27:32,343 add_month_to_df: Function called with parameters year=2001, month=6, normalize=True
+2019-04-24 14:27:32,343 get_kcores: Function called with parameters year=2001, month=6
+2019-04-24 14:27:32,343 get_merged_graph: Function called with parameters year=2001, month=6
+2019-04-24 14:27:32,425 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001600.net successfully added
+2019-04-24 14:27:33,562 add_month_to_df: Function called with parameters year=2001, month=7, normalize=True
+2019-04-24 14:27:33,562 get_kcores: Function called with parameters year=2001, month=7
+2019-04-24 14:27:33,562 get_merged_graph: Function called with parameters year=2001, month=7
+2019-04-24 14:27:33,666 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001700.net successfully added
+2019-04-24 14:27:34,850 add_month_to_df: Function called with parameters year=2001, month=8, normalize=True
+2019-04-24 14:27:34,850 get_kcores: Function called with parameters year=2001, month=8
+2019-04-24 14:27:34,850 get_merged_graph: Function called with parameters year=2001, month=8
+2019-04-24 14:27:34,956 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001800.net successfully added
+2019-04-24 14:27:36,175 add_month_to_df: Function called with parameters year=2001, month=9, normalize=True
+2019-04-24 14:27:36,176 get_kcores: Function called with parameters year=2001, month=9
+2019-04-24 14:27:36,176 get_merged_graph: Function called with parameters year=2001, month=9
+2019-04-24 14:27:36,286 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2001900.net successfully added
+2019-04-24 14:27:37,550 add_month_to_df: Function called with parameters year=2001, month=10, normalize=True
+2019-04-24 14:27:37,550 get_kcores: Function called with parameters year=2001, month=10
+2019-04-24 14:27:37,550 get_merged_graph: Function called with parameters year=2001, month=10
+2019-04-24 14:27:37,641 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20011000.net successfully added
+2019-04-24 14:27:38,961 add_month_to_df: Function called with parameters year=2001, month=11, normalize=True
+2019-04-24 14:27:38,961 get_kcores: Function called with parameters year=2001, month=11
+2019-04-24 14:27:38,961 get_merged_graph: Function called with parameters year=2001, month=11
+2019-04-24 14:27:39,071 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20011100.net successfully added
+2019-04-24 14:27:40,416 add_month_to_df: Function called with parameters year=2001, month=12, normalize=True
+2019-04-24 14:27:40,416 get_kcores: Function called with parameters year=2001, month=12
+2019-04-24 14:27:40,416 get_merged_graph: Function called with parameters year=2001, month=12
+2019-04-24 14:27:40,526 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20011200.net successfully added
+2019-04-24 14:27:41,945 get_year_kcores: Function called with parameters year=2002, from_month=1, to_month=12, normalize=True
+2019-04-24 14:27:41,945 add_month_to_df: Function called with parameters year=2002, month=1, normalize=True
+2019-04-24 14:27:41,945 get_kcores: Function called with parameters year=2002, month=1
+2019-04-24 14:27:41,945 get_merged_graph: Function called with parameters year=2002, month=1
+2019-04-24 14:27:42,056 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002100.net successfully added
+2019-04-24 14:27:43,476 add_month_to_df: Function called with parameters year=2002, month=2, normalize=True
+2019-04-24 14:27:43,476 get_kcores: Function called with parameters year=2002, month=2
+2019-04-24 14:27:43,476 get_merged_graph: Function called with parameters year=2002, month=2
+2019-04-24 14:27:43,590 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002200.net successfully added
+2019-04-24 14:27:45,045 add_month_to_df: Function called with parameters year=2002, month=3, normalize=True
+2019-04-24 14:27:45,045 get_kcores: Function called with parameters year=2002, month=3
+2019-04-24 14:27:45,045 get_merged_graph: Function called with parameters year=2002, month=3
+2019-04-24 14:27:45,160 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002300.net successfully added
+2019-04-24 14:27:46,689 add_month_to_df: Function called with parameters year=2002, month=4, normalize=True
+2019-04-24 14:27:46,689 get_kcores: Function called with parameters year=2002, month=4
+2019-04-24 14:27:46,689 get_merged_graph: Function called with parameters year=2002, month=4
+2019-04-24 14:27:46,804 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002400.net successfully added
+2019-04-24 14:27:48,348 add_month_to_df: Function called with parameters year=2002, month=5, normalize=True
+2019-04-24 14:27:48,348 get_kcores: Function called with parameters year=2002, month=5
+2019-04-24 14:27:48,348 get_merged_graph: Function called with parameters year=2002, month=5
+2019-04-24 14:27:48,464 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002500.net successfully added
+2019-04-24 14:27:50,060 add_month_to_df: Function called with parameters year=2002, month=6, normalize=True
+2019-04-24 14:27:50,060 get_kcores: Function called with parameters year=2002, month=6
+2019-04-24 14:27:50,060 get_merged_graph: Function called with parameters year=2002, month=6
+2019-04-24 14:27:50,175 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002600.net successfully added
+2019-04-24 14:27:51,809 add_month_to_df: Function called with parameters year=2002, month=7, normalize=True
+2019-04-24 14:27:51,809 get_kcores: Function called with parameters year=2002, month=7
+2019-04-24 14:27:51,809 get_merged_graph: Function called with parameters year=2002, month=7
+2019-04-24 14:27:51,912 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002700.net successfully added
+2019-04-24 14:27:53,589 add_month_to_df: Function called with parameters year=2002, month=8, normalize=True
+2019-04-24 14:27:53,589 get_kcores: Function called with parameters year=2002, month=8
+2019-04-24 14:27:53,589 get_merged_graph: Function called with parameters year=2002, month=8
+2019-04-24 14:27:53,729 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002800.net successfully added
+2019-04-24 14:27:55,416 add_month_to_df: Function called with parameters year=2002, month=9, normalize=True
+2019-04-24 14:27:55,416 get_kcores: Function called with parameters year=2002, month=9
+2019-04-24 14:27:55,416 get_merged_graph: Function called with parameters year=2002, month=9
+2019-04-24 14:27:55,520 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2002900.net successfully added
+2019-04-24 14:27:57,292 add_month_to_df: Function called with parameters year=2002, month=10, normalize=True
+2019-04-24 14:27:57,292 get_kcores: Function called with parameters year=2002, month=10
+2019-04-24 14:27:57,292 get_merged_graph: Function called with parameters year=2002, month=10
+2019-04-24 14:27:57,400 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20021000.net successfully added
+2019-04-24 14:27:59,258 add_month_to_df: Function called with parameters year=2002, month=11, normalize=True
+2019-04-24 14:27:59,258 get_kcores: Function called with parameters year=2002, month=11
+2019-04-24 14:27:59,258 get_merged_graph: Function called with parameters year=2002, month=11
+2019-04-24 14:27:59,367 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20021100.net successfully added
+2019-04-24 14:28:01,212 add_month_to_df: Function called with parameters year=2002, month=12, normalize=True
+2019-04-24 14:28:01,212 get_kcores: Function called with parameters year=2002, month=12
+2019-04-24 14:28:01,212 get_merged_graph: Function called with parameters year=2002, month=12
+2019-04-24 14:28:01,355 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20021200.net successfully added
+2019-04-24 14:28:03,175 get_year_kcores: Function called with parameters year=2003, from_month=1, to_month=12, normalize=True
+2019-04-24 14:28:03,175 add_month_to_df: Function called with parameters year=2003, month=1, normalize=True
+2019-04-24 14:28:03,176 get_kcores: Function called with parameters year=2003, month=1
+2019-04-24 14:28:03,176 get_merged_graph: Function called with parameters year=2003, month=1
+2019-04-24 14:28:03,310 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003100.net successfully added
+2019-04-24 14:28:05,126 add_month_to_df: Function called with parameters year=2003, month=2, normalize=True
+2019-04-24 14:28:05,126 get_kcores: Function called with parameters year=2003, month=2
+2019-04-24 14:28:05,126 get_merged_graph: Function called with parameters year=2003, month=2
+2019-04-24 14:28:05,262 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003200.net successfully added
+2019-04-24 14:28:07,214 add_month_to_df: Function called with parameters year=2003, month=3, normalize=True
+2019-04-24 14:28:07,214 get_kcores: Function called with parameters year=2003, month=3
+2019-04-24 14:28:07,214 get_merged_graph: Function called with parameters year=2003, month=3
+2019-04-24 14:28:07,348 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003300.net successfully added
+2019-04-24 14:28:09,284 add_month_to_df: Function called with parameters year=2003, month=4, normalize=True
+2019-04-24 14:28:09,284 get_kcores: Function called with parameters year=2003, month=4
+2019-04-24 14:28:09,284 get_merged_graph: Function called with parameters year=2003, month=4
+2019-04-24 14:28:09,422 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003400.net successfully added
+2019-04-24 14:28:11,389 add_month_to_df: Function called with parameters year=2003, month=5, normalize=True
+2019-04-24 14:28:11,389 get_kcores: Function called with parameters year=2003, month=5
+2019-04-24 14:28:11,389 get_merged_graph: Function called with parameters year=2003, month=5
+2019-04-24 14:28:11,530 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003500.net successfully added
+2019-04-24 14:28:13,479 add_month_to_df: Function called with parameters year=2003, month=6, normalize=True
+2019-04-24 14:28:13,479 get_kcores: Function called with parameters year=2003, month=6
+2019-04-24 14:28:13,479 get_merged_graph: Function called with parameters year=2003, month=6
+2019-04-24 14:28:13,626 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003600.net successfully added
+2019-04-24 14:28:15,586 add_month_to_df: Function called with parameters year=2003, month=7, normalize=True
+2019-04-24 14:28:15,586 get_kcores: Function called with parameters year=2003, month=7
+2019-04-24 14:28:15,586 get_merged_graph: Function called with parameters year=2003, month=7
+2019-04-24 14:28:15,740 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003700.net successfully added
+2019-04-24 14:28:17,779 add_month_to_df: Function called with parameters year=2003, month=8, normalize=True
+2019-04-24 14:28:17,779 get_kcores: Function called with parameters year=2003, month=8
+2019-04-24 14:28:17,779 get_merged_graph: Function called with parameters year=2003, month=8
+2019-04-24 14:28:17,931 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003800.net successfully added
+2019-04-24 14:28:20,001 add_month_to_df: Function called with parameters year=2003, month=9, normalize=True
+2019-04-24 14:28:20,001 get_kcores: Function called with parameters year=2003, month=9
+2019-04-24 14:28:20,001 get_merged_graph: Function called with parameters year=2003, month=9
+2019-04-24 14:28:20,150 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2003900.net successfully added
+2019-04-24 14:28:22,239 add_month_to_df: Function called with parameters year=2003, month=10, normalize=True
+2019-04-24 14:28:22,239 get_kcores: Function called with parameters year=2003, month=10
+2019-04-24 14:28:22,239 get_merged_graph: Function called with parameters year=2003, month=10
+2019-04-24 14:28:22,369 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20031000.net successfully added
+2019-04-24 14:28:24,499 add_month_to_df: Function called with parameters year=2003, month=11, normalize=True
+2019-04-24 14:28:24,499 get_kcores: Function called with parameters year=2003, month=11
+2019-04-24 14:28:24,499 get_merged_graph: Function called with parameters year=2003, month=11
+2019-04-24 14:28:24,654 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20031100.net successfully added
+2019-04-24 14:28:26,867 add_month_to_df: Function called with parameters year=2003, month=12, normalize=True
+2019-04-24 14:28:26,867 get_kcores: Function called with parameters year=2003, month=12
+2019-04-24 14:28:26,867 get_merged_graph: Function called with parameters year=2003, month=12
+2019-04-24 14:28:27,019 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20031200.net successfully added
+2019-04-24 14:28:29,217 get_year_kcores: Function called with parameters year=2004, from_month=1, to_month=12, normalize=True
+2019-04-24 14:28:29,217 add_month_to_df: Function called with parameters year=2004, month=1, normalize=True
+2019-04-24 14:28:29,217 get_kcores: Function called with parameters year=2004, month=1
+2019-04-24 14:28:29,217 get_merged_graph: Function called with parameters year=2004, month=1
+2019-04-24 14:28:29,372 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004100.net successfully added
+2019-04-24 14:28:31,556 add_month_to_df: Function called with parameters year=2004, month=2, normalize=True
+2019-04-24 14:28:31,556 get_kcores: Function called with parameters year=2004, month=2
+2019-04-24 14:28:31,556 get_merged_graph: Function called with parameters year=2004, month=2
+2019-04-24 14:28:31,703 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004200.net successfully added
+2019-04-24 14:28:33,975 add_month_to_df: Function called with parameters year=2004, month=3, normalize=True
+2019-04-24 14:28:33,975 get_kcores: Function called with parameters year=2004, month=3
+2019-04-24 14:28:33,975 get_merged_graph: Function called with parameters year=2004, month=3
+2019-04-24 14:28:34,138 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004300.net successfully added
+2019-04-24 14:28:36,392 add_month_to_df: Function called with parameters year=2004, month=4, normalize=True
+2019-04-24 14:28:36,392 get_kcores: Function called with parameters year=2004, month=4
+2019-04-24 14:28:36,392 get_merged_graph: Function called with parameters year=2004, month=4
+2019-04-24 14:28:36,561 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004400.net successfully added
+2019-04-24 14:28:38,820 add_month_to_df: Function called with parameters year=2004, month=5, normalize=True
+2019-04-24 14:28:38,820 get_kcores: Function called with parameters year=2004, month=5
+2019-04-24 14:28:38,820 get_merged_graph: Function called with parameters year=2004, month=5
+2019-04-24 14:28:39,006 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004500.net successfully added
+2019-04-24 14:28:41,337 add_month_to_df: Function called with parameters year=2004, month=6, normalize=True
+2019-04-24 14:28:41,337 get_kcores: Function called with parameters year=2004, month=6
+2019-04-24 14:28:41,337 get_merged_graph: Function called with parameters year=2004, month=6
+2019-04-24 14:28:41,502 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004600.net successfully added
+2019-04-24 14:28:43,847 add_month_to_df: Function called with parameters year=2004, month=7, normalize=True
+2019-04-24 14:28:43,847 get_kcores: Function called with parameters year=2004, month=7
+2019-04-24 14:28:43,847 get_merged_graph: Function called with parameters year=2004, month=7
+2019-04-24 14:28:44,014 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004700.net successfully added
+2019-04-24 14:28:46,450 add_month_to_df: Function called with parameters year=2004, month=8, normalize=True
+2019-04-24 14:28:46,450 get_kcores: Function called with parameters year=2004, month=8
+2019-04-24 14:28:46,450 get_merged_graph: Function called with parameters year=2004, month=8
+2019-04-24 14:28:46,621 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004800.net successfully added
+2019-04-24 14:28:49,024 add_month_to_df: Function called with parameters year=2004, month=9, normalize=True
+2019-04-24 14:28:49,024 get_kcores: Function called with parameters year=2004, month=9
+2019-04-24 14:28:49,025 get_merged_graph: Function called with parameters year=2004, month=9
+2019-04-24 14:28:49,201 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2004900.net successfully added
+2019-04-24 14:28:51,662 add_month_to_df: Function called with parameters year=2004, month=10, normalize=True
+2019-04-24 14:28:51,662 get_kcores: Function called with parameters year=2004, month=10
+2019-04-24 14:28:51,662 get_merged_graph: Function called with parameters year=2004, month=10
+2019-04-24 14:28:51,856 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20041000.net successfully added
+2019-04-24 14:28:54,319 add_month_to_df: Function called with parameters year=2004, month=11, normalize=True
+2019-04-24 14:28:54,319 get_kcores: Function called with parameters year=2004, month=11
+2019-04-24 14:28:54,319 get_merged_graph: Function called with parameters year=2004, month=11
+2019-04-24 14:28:54,517 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20041100.net successfully added
+2019-04-24 14:28:57,062 add_month_to_df: Function called with parameters year=2004, month=12, normalize=True
+2019-04-24 14:28:57,062 get_kcores: Function called with parameters year=2004, month=12
+2019-04-24 14:28:57,062 get_merged_graph: Function called with parameters year=2004, month=12
+2019-04-24 14:28:57,260 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20041200.net successfully added
+2019-04-24 14:28:59,767 get_year_kcores: Function called with parameters year=2005, from_month=1, to_month=12, normalize=True
+2019-04-24 14:28:59,767 add_month_to_df: Function called with parameters year=2005, month=1, normalize=True
+2019-04-24 14:28:59,768 get_kcores: Function called with parameters year=2005, month=1
+2019-04-24 14:28:59,768 get_merged_graph: Function called with parameters year=2005, month=1
+2019-04-24 14:28:59,973 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005100.net successfully added
+2019-04-24 14:29:02,449 add_month_to_df: Function called with parameters year=2005, month=2, normalize=True
+2019-04-24 14:29:02,449 get_kcores: Function called with parameters year=2005, month=2
+2019-04-24 14:29:02,449 get_merged_graph: Function called with parameters year=2005, month=2
+2019-04-24 14:29:02,652 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005200.net successfully added
+2019-04-24 14:29:05,153 add_month_to_df: Function called with parameters year=2005, month=3, normalize=True
+2019-04-24 14:29:05,153 get_kcores: Function called with parameters year=2005, month=3
+2019-04-24 14:29:05,153 get_merged_graph: Function called with parameters year=2005, month=3
+2019-04-24 14:29:05,355 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005300.net successfully added
+2019-04-24 14:29:07,947 add_month_to_df: Function called with parameters year=2005, month=4, normalize=True
+2019-04-24 14:29:07,947 get_kcores: Function called with parameters year=2005, month=4
+2019-04-24 14:29:07,947 get_merged_graph: Function called with parameters year=2005, month=4
+2019-04-24 14:29:08,150 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005400.net successfully added
+2019-04-24 14:29:10,778 add_month_to_df: Function called with parameters year=2005, month=5, normalize=True
+2019-04-24 14:29:10,778 get_kcores: Function called with parameters year=2005, month=5
+2019-04-24 14:29:10,778 get_merged_graph: Function called with parameters year=2005, month=5
+2019-04-24 14:29:10,984 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005500.net successfully added
+2019-04-24 14:29:13,664 add_month_to_df: Function called with parameters year=2005, month=6, normalize=True
+2019-04-24 14:29:13,664 get_kcores: Function called with parameters year=2005, month=6
+2019-04-24 14:29:13,664 get_merged_graph: Function called with parameters year=2005, month=6
+2019-04-24 14:29:13,859 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005600.net successfully added
+2019-04-24 14:29:16,623 add_month_to_df: Function called with parameters year=2005, month=7, normalize=True
+2019-04-24 14:29:16,623 get_kcores: Function called with parameters year=2005, month=7
+2019-04-24 14:29:16,623 get_merged_graph: Function called with parameters year=2005, month=7
+2019-04-24 14:29:16,832 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005700.net successfully added
+2019-04-24 14:29:19,572 add_month_to_df: Function called with parameters year=2005, month=8, normalize=True
+2019-04-24 14:29:19,572 get_kcores: Function called with parameters year=2005, month=8
+2019-04-24 14:29:19,572 get_merged_graph: Function called with parameters year=2005, month=8
+2019-04-24 14:29:19,775 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005800.net successfully added
+2019-04-24 14:29:22,515 add_month_to_df: Function called with parameters year=2005, month=9, normalize=True
+2019-04-24 14:29:22,515 get_kcores: Function called with parameters year=2005, month=9
+2019-04-24 14:29:22,515 get_merged_graph: Function called with parameters year=2005, month=9
+2019-04-24 14:29:22,729 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2005900.net successfully added
+2019-04-24 14:29:25,548 add_month_to_df: Function called with parameters year=2005, month=10, normalize=True
+2019-04-24 14:29:25,549 get_kcores: Function called with parameters year=2005, month=10
+2019-04-24 14:29:25,549 get_merged_graph: Function called with parameters year=2005, month=10
+2019-04-24 14:29:25,764 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20051000.net successfully added
+2019-04-24 14:29:28,595 add_month_to_df: Function called with parameters year=2005, month=11, normalize=True
+2019-04-24 14:29:28,595 get_kcores: Function called with parameters year=2005, month=11
+2019-04-24 14:29:28,595 get_merged_graph: Function called with parameters year=2005, month=11
+2019-04-24 14:29:28,802 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20051100.net successfully added
+2019-04-24 14:29:31,643 add_month_to_df: Function called with parameters year=2005, month=12, normalize=True
+2019-04-24 14:29:31,643 get_kcores: Function called with parameters year=2005, month=12
+2019-04-24 14:29:31,643 get_merged_graph: Function called with parameters year=2005, month=12
+2019-04-24 14:29:31,854 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20051200.net successfully added
+2019-04-24 14:29:34,698 get_year_kcores: Function called with parameters year=2006, from_month=1, to_month=12, normalize=True
+2019-04-24 14:29:34,698 add_month_to_df: Function called with parameters year=2006, month=1, normalize=True
+2019-04-24 14:29:34,698 get_kcores: Function called with parameters year=2006, month=1
+2019-04-24 14:29:34,698 get_merged_graph: Function called with parameters year=2006, month=1
+2019-04-24 14:29:34,922 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006100.net successfully added
+2019-04-24 14:29:37,850 add_month_to_df: Function called with parameters year=2006, month=2, normalize=True
+2019-04-24 14:29:37,851 get_kcores: Function called with parameters year=2006, month=2
+2019-04-24 14:29:37,851 get_merged_graph: Function called with parameters year=2006, month=2
+2019-04-24 14:29:38,063 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006200.net successfully added
+2019-04-24 14:29:41,012 add_month_to_df: Function called with parameters year=2006, month=3, normalize=True
+2019-04-24 14:29:41,012 get_kcores: Function called with parameters year=2006, month=3
+2019-04-24 14:29:41,012 get_merged_graph: Function called with parameters year=2006, month=3
+2019-04-24 14:29:41,229 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006300.net successfully added
+2019-04-24 14:29:44,224 add_month_to_df: Function called with parameters year=2006, month=4, normalize=True
+2019-04-24 14:29:44,225 get_kcores: Function called with parameters year=2006, month=4
+2019-04-24 14:29:44,225 get_merged_graph: Function called with parameters year=2006, month=4
+2019-04-24 14:29:44,443 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006400.net successfully added
+2019-04-24 14:29:47,525 add_month_to_df: Function called with parameters year=2006, month=5, normalize=True
+2019-04-24 14:29:47,525 get_kcores: Function called with parameters year=2006, month=5
+2019-04-24 14:29:47,525 get_merged_graph: Function called with parameters year=2006, month=5
+2019-04-24 14:29:47,744 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006500.net successfully added
+2019-04-24 14:29:50,888 add_month_to_df: Function called with parameters year=2006, month=6, normalize=True
+2019-04-24 14:29:50,888 get_kcores: Function called with parameters year=2006, month=6
+2019-04-24 14:29:50,888 get_merged_graph: Function called with parameters year=2006, month=6
+2019-04-24 14:29:51,111 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006600.net successfully added
+2019-04-24 14:29:54,219 add_month_to_df: Function called with parameters year=2006, month=7, normalize=True
+2019-04-24 14:29:54,220 get_kcores: Function called with parameters year=2006, month=7
+2019-04-24 14:29:54,220 get_merged_graph: Function called with parameters year=2006, month=7
+2019-04-24 14:29:54,445 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006700.net successfully added
+2019-04-24 14:29:57,538 add_month_to_df: Function called with parameters year=2006, month=8, normalize=True
+2019-04-24 14:29:57,538 get_kcores: Function called with parameters year=2006, month=8
+2019-04-24 14:29:57,538 get_merged_graph: Function called with parameters year=2006, month=8
+2019-04-24 14:29:57,761 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006800.net successfully added
+2019-04-24 14:30:00,850 add_month_to_df: Function called with parameters year=2006, month=9, normalize=True
+2019-04-24 14:30:00,850 get_kcores: Function called with parameters year=2006, month=9
+2019-04-24 14:30:00,850 get_merged_graph: Function called with parameters year=2006, month=9
+2019-04-24 14:30:01,094 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2006900.net successfully added
+2019-04-24 14:30:04,305 add_month_to_df: Function called with parameters year=2006, month=10, normalize=True
+2019-04-24 14:30:04,305 get_kcores: Function called with parameters year=2006, month=10
+2019-04-24 14:30:04,305 get_merged_graph: Function called with parameters year=2006, month=10
+2019-04-24 14:30:04,570 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20061000.net successfully added
+2019-04-24 14:30:07,743 add_month_to_df: Function called with parameters year=2006, month=11, normalize=True
+2019-04-24 14:30:07,743 get_kcores: Function called with parameters year=2006, month=11
+2019-04-24 14:30:07,743 get_merged_graph: Function called with parameters year=2006, month=11
+2019-04-24 14:30:07,991 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20061100.net successfully added
+2019-04-24 14:30:11,266 add_month_to_df: Function called with parameters year=2006, month=12, normalize=True
+2019-04-24 14:30:11,267 get_kcores: Function called with parameters year=2006, month=12
+2019-04-24 14:30:11,267 get_merged_graph: Function called with parameters year=2006, month=12
+2019-04-24 14:30:11,523 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20061200.net successfully added
+2019-04-24 14:30:14,756 get_year_kcores: Function called with parameters year=2007, from_month=1, to_month=12, normalize=True
+2019-04-24 14:30:14,756 add_month_to_df: Function called with parameters year=2007, month=1, normalize=True
+2019-04-24 14:30:14,756 get_kcores: Function called with parameters year=2007, month=1
+2019-04-24 14:30:14,756 get_merged_graph: Function called with parameters year=2007, month=1
+2019-04-24 14:30:14,998 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007100.net successfully added
+2019-04-24 14:30:18,282 add_month_to_df: Function called with parameters year=2007, month=2, normalize=True
+2019-04-24 14:30:18,282 get_kcores: Function called with parameters year=2007, month=2
+2019-04-24 14:30:18,282 get_merged_graph: Function called with parameters year=2007, month=2
+2019-04-24 14:30:18,546 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007200.net successfully added
+2019-04-24 14:30:21,928 add_month_to_df: Function called with parameters year=2007, month=3, normalize=True
+2019-04-24 14:30:21,928 get_kcores: Function called with parameters year=2007, month=3
+2019-04-24 14:30:21,928 get_merged_graph: Function called with parameters year=2007, month=3
+2019-04-24 14:30:22,177 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007300.net successfully added
+2019-04-24 14:30:25,572 add_month_to_df: Function called with parameters year=2007, month=4, normalize=True
+2019-04-24 14:30:25,573 get_kcores: Function called with parameters year=2007, month=4
+2019-04-24 14:30:25,573 get_merged_graph: Function called with parameters year=2007, month=4
+2019-04-24 14:30:25,832 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007400.net successfully added
+2019-04-24 14:30:29,215 add_month_to_df: Function called with parameters year=2007, month=5, normalize=True
+2019-04-24 14:30:29,215 get_kcores: Function called with parameters year=2007, month=5
+2019-04-24 14:30:29,215 get_merged_graph: Function called with parameters year=2007, month=5
+2019-04-24 14:30:29,481 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007500.net successfully added
+2019-04-24 14:30:32,905 add_month_to_df: Function called with parameters year=2007, month=6, normalize=True
+2019-04-24 14:30:32,905 get_kcores: Function called with parameters year=2007, month=6
+2019-04-24 14:30:32,905 get_merged_graph: Function called with parameters year=2007, month=6
+2019-04-24 14:30:33,195 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007600.net successfully added
+2019-04-24 14:30:36,676 add_month_to_df: Function called with parameters year=2007, month=7, normalize=True
+2019-04-24 14:30:36,676 get_kcores: Function called with parameters year=2007, month=7
+2019-04-24 14:30:36,676 get_merged_graph: Function called with parameters year=2007, month=7
+2019-04-24 14:30:36,965 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007700.net successfully added
+2019-04-24 14:30:40,552 add_month_to_df: Function called with parameters year=2007, month=8, normalize=True
+2019-04-24 14:30:40,552 get_kcores: Function called with parameters year=2007, month=8
+2019-04-24 14:30:40,552 get_merged_graph: Function called with parameters year=2007, month=8
+2019-04-24 14:30:40,851 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007800.net successfully added
+2019-04-24 14:30:44,387 add_month_to_df: Function called with parameters year=2007, month=9, normalize=True
+2019-04-24 14:30:44,387 get_kcores: Function called with parameters year=2007, month=9
+2019-04-24 14:30:44,387 get_merged_graph: Function called with parameters year=2007, month=9
+2019-04-24 14:30:44,655 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2007900.net successfully added
+2019-04-24 14:30:48,218 add_month_to_df: Function called with parameters year=2007, month=10, normalize=True
+2019-04-24 14:30:48,218 get_kcores: Function called with parameters year=2007, month=10
+2019-04-24 14:30:48,218 get_merged_graph: Function called with parameters year=2007, month=10
+2019-04-24 14:30:48,508 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20071000.net successfully added
+2019-04-24 14:30:52,074 add_month_to_df: Function called with parameters year=2007, month=11, normalize=True
+2019-04-24 14:30:52,074 get_kcores: Function called with parameters year=2007, month=11
+2019-04-24 14:30:52,075 get_merged_graph: Function called with parameters year=2007, month=11
+2019-04-24 14:30:52,364 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20071100.net successfully added
+2019-04-24 14:30:55,958 add_month_to_df: Function called with parameters year=2007, month=12, normalize=True
+2019-04-24 14:30:55,958 get_kcores: Function called with parameters year=2007, month=12
+2019-04-24 14:30:55,958 get_merged_graph: Function called with parameters year=2007, month=12
+2019-04-24 14:30:56,246 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/20071200.net successfully added
+2019-04-24 14:30:59,976 get_year_kcores: Function called with parameters year=2008, from_month=1, to_month=12, normalize=True
+2019-04-24 14:30:59,976 add_month_to_df: Function called with parameters year=2008, month=1, normalize=True
+2019-04-24 14:30:59,977 get_kcores: Function called with parameters year=2008, month=1
+2019-04-24 14:30:59,977 get_merged_graph: Function called with parameters year=2008, month=1
+2019-04-24 14:31:00,266 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2008100.net successfully added
+2019-04-24 14:31:03,939 add_month_to_df: Function called with parameters year=2008, month=2, normalize=True
+2019-04-24 14:31:03,939 get_kcores: Function called with parameters year=2008, month=2
+2019-04-24 14:31:03,939 get_merged_graph: Function called with parameters year=2008, month=2
+2019-04-24 14:31:04,233 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2008200.net successfully added
+2019-04-24 14:31:08,023 add_month_to_df: Function called with parameters year=2008, month=3, normalize=True
+2019-04-24 14:31:08,023 get_kcores: Function called with parameters year=2008, month=3
+2019-04-24 14:31:08,023 get_merged_graph: Function called with parameters year=2008, month=3
+2019-04-24 14:31:08,309 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2008300.net successfully added
+2019-04-24 14:31:12,031 add_month_to_df: Function called with parameters year=2008, month=4, normalize=True
+2019-04-24 14:31:12,031 get_kcores: Function called with parameters year=2008, month=4
+2019-04-24 14:31:12,031 get_merged_graph: Function called with parameters year=2008, month=4
+2019-04-24 14:31:12,327 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2008400.net successfully added
+2019-04-24 14:31:16,337 add_month_to_df: Function called with parameters year=2008, month=5, normalize=True
+2019-04-24 14:31:16,337 get_kcores: Function called with parameters year=2008, month=5
+2019-04-24 14:31:16,337 get_merged_graph: Function called with parameters year=2008, month=5
+2019-04-24 14:31:16,630 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2008500.net successfully added
+2019-04-24 14:31:20,459 add_month_to_df: Function called with parameters year=2008, month=6, normalize=True
+2019-04-24 14:31:20,459 get_kcores: Function called with parameters year=2008, month=6
+2019-04-24 14:31:20,459 get_merged_graph: Function called with parameters year=2008, month=6
+2019-04-24 14:31:20,767 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2008600.net successfully added
+2019-04-24 14:31:24,745 add_month_to_df: Function called with parameters year=2008, month=7, normalize=True
+2019-04-24 14:31:24,745 get_kcores: Function called with parameters year=2008, month=7
+2019-04-24 14:31:24,745 get_merged_graph: Function called with parameters year=2008, month=7
+2019-04-24 14:31:25,093 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2008700.net successfully added
+2019-04-24 14:31:28,921 add_month_to_df: Function called with parameters year=2008, month=8, normalize=True
+2019-04-24 14:31:28,921 get_kcores: Function called with parameters year=2008, month=8
+2019-04-24 14:31:28,921 get_merged_graph: Function called with parameters year=2008, month=8
+2019-04-24 14:31:29,262 get_merged_graph: graph from ../../data/raw/raw_graphs_bgp/2008800.net successfully added

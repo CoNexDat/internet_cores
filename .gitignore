@@ -1,0 +1,6 @@
+./log/*
+./tmp/*
+./data/raw/raw_graphs_ark/*
+./data/raw/raw_graphs_bgp/*
+./data/raw/raw_graphs_skitter/*
+./data/processed/*
