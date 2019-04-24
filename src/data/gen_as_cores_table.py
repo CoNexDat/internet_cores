@@ -2,7 +2,6 @@ import pandas as pd
 import random
 import networkx as nx
 import numpy as np
-import matplotlib.pyplot as plt
 from os import listdir
 from os.path import isfile, join
 import csv
